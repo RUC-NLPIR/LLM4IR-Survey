@@ -2,7 +2,7 @@
 This is the repo for the survey of LLM4IR.
 
 ## Table of Content
-- Query Rewriter
+- [Query Rewriter](https://github.com/RUC-NLPIR/LLM4IR-Survey/tree/main#query-rewriter)
   - Prompting Methods
   - Fine-tuning Methods
   - Knowledge Distillation Methods
