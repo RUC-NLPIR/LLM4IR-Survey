@@ -99,6 +99,18 @@ Please kindly cite our paper if helps your research:
 4. **Is ChatGPT Good at Search? Investigating Large Language Models as Re-Ranking Agent**, _Sun et al._, arXiv 2023. \[[Paper](https://arxiv.org/pdf/2304.09542.pdf)\]
 
 ### Reader
+#### Separated Reader
+1. **REALM: Retrieval-Augmented Language Model Pre-Training**, _Guu et al._, arXiv 2020. \[[Paper](https://arxiv.org/pdf/2002.08909.pdf)\]
+2. **Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks**, _Lewis et al._, NeurIPS 2020. \[[Paper](https://proceedings.neurips.cc/paper/2020/file/6b493230205f780e1bc26945df7481e5-Paper.pdf)\]
+3. **REPLUG: Retrieval-Augmented Black-Box Language Models**, _Shi et al._, arXiv 2023. \[[Paper](https://arxiv.org/pdf/2301.12652.pdf)\]
+4. **Atlas: Few-shot Learning with Retrieval Augmented Language Models**, _Izacard et al._, arXiv 2022. \[[Paper](https://arxiv.org/pdf/2208.03299.pdf)\]
+5. **RETA-LLM: A Retrieval-Augmented Large Language Model Toolkit**, _Liu et al._, arXiv 2023. \[[Paper](https://arxiv.org/pdf/2306.05212.pdf)\]
+6. **Improving language models by retrieving from trillions of tokens**, _Borgeaud et al.__, ICML 2022. \[[Paper](https://proceedings.mlr.press/v162/borgeaud22a/borgeaud22a.pdf)\]
+7. **In-Context Retrieval-Augmented Language Models**, _Ram et al._, arXiv 2023. \[[Paper](https://arxiv.org/pdf/2302.00083.pdf)\]
+8. **Active Retrieval Augmented Generation**, _Jiang et al._, arXiv 2023. \[[Paper](https://arxiv.org/pdf/2305.06983.pdf)\]
+#### Unified Reader
+1. **WebGPT: Browser-assisted question-answering with human feedback**, _Nakano et al._, arXiv 2021. \[[Paper](https://arxiv.org/pdf/2112.09332.pdf)\]
+2. **WebCPM: Interactive Web Search for Chinese Long-form Question Answering**, _Qin et al._, ACL 2023. \[[Paper](https://aclanthology.org/2023.acl-long.499.pdf)\]
 
 ### Other Resources
 1. **ACL 2023 Tutorial: Retrieval-based Language Models and Applications**. \[[Link](https://acl2023-retrieval-lm.github.io/)\]
