@@ -3,7 +3,7 @@ This is the collection of papers related to large language models for informatio
 
 Feel free to contact us if you find a mistake or have any advice. The contact e-mail is yutaozhu94@gmail.com
 
-Please kindly cite our paper if help your research:
+Please kindly cite our paper if helps your research:
 ```BibTex
 @article{LLM4IRSurvey,
     title={Large Language Models for Information Retrieval: A Survey},
