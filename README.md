@@ -7,6 +7,18 @@ This is the repo for the survey of LLM4IR.
 
 1. **Query2doc: Query Expansion with Large Language Models**, _Wang et al._, arXiv 2023. \[[Paper](https://arxiv.org/pdf/2303.07678.pdf)\] 
 2. **QUILL: Query Intent with Large Language Models using Retrieval Augmentation and Multi-stage Distillation**, _Srinivasan et al._, EMNLP 2022 (Industry). \[[Paper](https://aclanthology.org/2022.emnlp-industry.50.pdf)\]
+3. **Generative and Pseudo-Relevant Feedback for Sparse, Dense and Learned Sparse Retrieval**, _Mackie et al._, arXiv 2023.  \[[Paper](https://arxiv.org/pdf/2305.07477.pdf)]
+4. **Generative Relevance Feedback with Large Language Models**, _Mackie et al._, SIGIR 2023 (short paper). \[[Paper](https://arxiv.org/pdf/2304.13157.pdf)\]
+5. **GRM: Generative Relevance Modeling Using Relevance-Aware Sample Estimation for Document Retrieval**, _Mackie et al._, arXiv 2023.  \[[Paper](https://arxiv.org/pdf/2306.09938.pdf)]
+6. **KNOWLEDGE REFINEMENT VIA INTERACTION BETWEEN SEARCH ENGINES AND LARGE LANGUAGE MODELS**, _Feng et al._, arXiv 2023.  \[[Paper](https://arxiv.org/pdf/2305.07402.pdf)]
+7. **LARGE LANGUAGE MODELS ARE STRONG ZERO-SHOT RETRIEVER**, _Shen et al._, arXiv 2023.  \[[Paper](https://arxiv.org/pdf/2304.14233.pdf)]
+8. **Large Language Models Know Your Contextual Search Intent: A Prompting Framework for Conversational Search**, _Mao et al._, arXiv 2023.  \[[Paper](https://arxiv.org/pdf/2303.06573.pdf)]
+9. **Precise Zero-Shot Dense Retrieval without Relevance Labels**, _Gao et al._, ACL 2023.  \[[Paper](https://aclanthology.org/2023.acl-long.99.pdf)]
+10. **Query Expansion by Prompting Large Language Models**, _Jagerman et al._, arXiv 2023.  \[[Paper](https://arxiv.org/pdf/2305.03653.pdf)]
+11. **Query Rewriting for Retrieval-Augmented Large Language Models**, _Ma et al._, arXiv 2023.  \[[Paper](https://arxiv.org/pdf/2305.14283.pdf)]
+
+
+
 
 ### Retriever
 #### LLM for Producing Search Data
