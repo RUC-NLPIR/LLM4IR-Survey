@@ -1,7 +1,7 @@
 # LLM4IR-Survey
 This is the collection of papers related to large language models for information retrieval. These papers are organized according to our survey paper [Large Language Models for Information Retrieval: A Survey](). 
 
-Feel free to contact us if you find a mistake or have any advice. The contact e-mail is yutaozhu94@gmail.com
+Feel free to contact us if you find a mistake or have any advice. The contact e-mail is yutaozhu94@gmail.com.
 
 Please kindly cite our paper if helps your research:
 ```BibTex
