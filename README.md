@@ -1,6 +1,20 @@
 # LLM4IR-Survey
 This is the repo for the survey of LLM4IR.
 
+## Table of Content
+- Query Rewriter
+  - Prompting Methods
+  - Fine-tuning Methods
+  - Knowledge Distillation Methods
+- Retriever
+  - LLM for Producing Search Data
+  - LLM for Enhancing Retriever
+- Re-ranker
+  - Fine-tuning LLMs for Re-ranking
+  - Prompting LLMs for Re-ranking
+  - Utilizing LLMs for Re-ranking Data Augmentation
+- Reader
+
 ## Paper List
 
 ### Query Rewriter
