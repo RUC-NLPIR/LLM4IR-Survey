@@ -1,5 +1,25 @@
 # LLM4IR-Survey
-This is the repo for the survey of LLM4IR.
+This is the collection of papers related to large language models for information retrieval. These papers are organized according to our survey paper [Large Language Models for Information Retrieval: A Survey](). 
+
+Feel free to contact us if you find a mistake or have any advice. The contact e-mail is yutaozhu94@gmail.com
+
+Please kindly cite our paper if help your research:
+```BibTex
+@article{LLM4IRSurvey,
+    title={Large Language Models for Information Retrieval: A Survey},
+    author={Yutao Zhu and
+            Huaying Yuan and
+            Shuting Wang and
+            Jiongnan Liu and
+            Wenhan Liu and
+            Chenlong Deng and
+            Zhicheng Dou and
+            Ji-Rong Wen},
+    year={2023},
+    journal={arXiv preprint arXiv:},
+    url={http://arxiv.org/abs/}
+}
+```
 
 ## Table of Content
 - [Query Rewriter](https://github.com/RUC-NLPIR/LLM4IR-Survey/tree/main#query-rewriter)
