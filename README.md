@@ -25,7 +25,6 @@ This is the repo for the survey of LLM4IR.
 3. **Task-aware retrieval with instructions**, _Asai et al._, ACL 2023 (Findings). \[[Paper](https://aclanthology.org/2023.findings-acl.225.pdf)\]
 4. **Transformer memory as a differentiable search index**, _Tay et al._, NeurIPS 2022. \[[Paper](https://proceedings.neurips.cc/paper_files/paper/2022/file/892840a6123b5ec99ebaab8be1530fba-Paper-Conference.pdf)\]
 5. **Large Language Models are Built-in Autoregressive Search Engines**, _Ziems et al._, ACL 2023 (Findings). \[[Paper](https://aclanthology.org/2023.findings-acl.167.pdf)\]
-6. **Large Language Models are Built-in Autoregressive Search Engines**, _Ziems et al._, ACL 2023 (Findings). \[[Paper](https://aclanthology.org/2023.findings-acl.167.pdf)\]
 
 ### Re-ranker
 
