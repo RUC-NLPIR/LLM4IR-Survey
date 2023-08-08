@@ -3,16 +3,16 @@ This is the repo for the survey of LLM4IR.
 
 ## Table of Content
 - [Query Rewriter](https://github.com/RUC-NLPIR/LLM4IR-Survey/tree/main#query-rewriter)
-  - Prompting Methods
-  - Fine-tuning Methods
-  - Knowledge Distillation Methods
-- Retriever
-  - LLM for Producing Search Data
-  - LLM for Enhancing Retriever
-- Re-ranker
-  - Fine-tuning LLMs for Re-ranking
-  - Prompting LLMs for Re-ranking
-  - Utilizing LLMs for Re-ranking Data Augmentation
+  - [Prompting Methods](https://github.com/RUC-NLPIR/LLM4IR-Survey/tree/main#prompting-methods)
+  - [Fine-tuning Methods](https://github.com/RUC-NLPIR/LLM4IR-Survey/tree/main#fine-tuning-methods)
+  - [Knowledge Distillation Methods](https://github.com/RUC-NLPIR/LLM4IR-Survey/tree/main#knowledge-distillation-methods)
+- [Retriever](https://github.com/RUC-NLPIR/LLM4IR-Survey/tree/main#retriever)
+  - [LLM for Producing Search Data](https://github.com/RUC-NLPIR/LLM4IR-Survey/tree/main#llm-for-producing-search-data)
+  - [LLM for Enhancing Retriever](https://github.com/RUC-NLPIR/LLM4IR-Survey/tree/main#llm-for-enhancing-retriever)
+- [Re-ranker](https://github.com/RUC-NLPIR/LLM4IR-Survey/tree/main#re-ranker)
+  - [Fine-tuning LLMs for Re-ranking](https://github.com/RUC-NLPIR/LLM4IR-Survey/tree/main#fine-tuning-llms-for-re-ranking)
+  - [Prompting LLMs for Re-ranking](https://github.com/RUC-NLPIR/LLM4IR-Survey/tree/main#prompting-llms-for-re-ranking)
+  - [Utilizing LLMs for Re-ranking Data Augmentation](https://github.com/RUC-NLPIR/LLM4IR-Survey/tree/main#utilizing-llms-for-re-ranking-data-augmentation)
 - Reader
 
 ## Paper List
