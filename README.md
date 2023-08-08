@@ -34,6 +34,7 @@ Please kindly cite our paper if helps your research:
   - [Prompting LLMs for Re-ranking](https://github.com/RUC-NLPIR/LLM4IR-Survey/tree/main#prompting-llms-for-re-ranking)
   - [Utilizing LLMs for Re-ranking Data Augmentation](https://github.com/RUC-NLPIR/LLM4IR-Survey/tree/main#utilizing-llms-for-re-ranking-data-augmentation)
 - Reader
+- Other Resources
 
 ## Paper List
 
@@ -98,3 +99,6 @@ Please kindly cite our paper if helps your research:
 4. **Is ChatGPT Good at Search? Investigating Large Language Models as Re-Ranking Agent**, _Sun et al._, arXiv 2023. \[[Paper](https://arxiv.org/pdf/2304.09542.pdf)\]
 
 ### Reader
+
+### Other Resources
+1. ACL 2023 Tutorial: Retrieval-based Language Models and Applications. \[[Link](https://acl2023-retrieval-lm.github.io/)\]
