@@ -33,8 +33,8 @@ Please kindly cite our paper if helps your research:
   - [Fine-tuning LLMs for Re-ranking](https://github.com/RUC-NLPIR/LLM4IR-Survey/tree/main#fine-tuning-llms-for-re-ranking)
   - [Prompting LLMs for Re-ranking](https://github.com/RUC-NLPIR/LLM4IR-Survey/tree/main#prompting-llms-for-re-ranking)
   - [Utilizing LLMs for Re-ranking Data Augmentation](https://github.com/RUC-NLPIR/LLM4IR-Survey/tree/main#utilizing-llms-for-re-ranking-data-augmentation)
-- Reader
-- Other Resources
+- [Reader](https://github.com/RUC-NLPIR/LLM4IR-Survey/tree/main#reader)
+- [Other Resources](https://github.com/RUC-NLPIR/LLM4IR-Survey/tree/main#other-resources)
 
 ## Paper List
 
