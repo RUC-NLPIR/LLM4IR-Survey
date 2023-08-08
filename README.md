@@ -101,4 +101,6 @@ Please kindly cite our paper if helps your research:
 ### Reader
 
 ### Other Resources
-1. ACL 2023 Tutorial: Retrieval-based Language Models and Applications. \[[Link](https://acl2023-retrieval-lm.github.io/)\]
+1. **ACL 2023 Tutorial: Retrieval-based Language Models and Applications**. \[[Link](https://acl2023-retrieval-lm.github.io/)\]
+2. **A Survey of Large Language Models**, _Zhao et al._, arXiv 2023. \[[Paper](https://arxiv.org/pdf/2303.18223.pdf)\]
+3. **Information Retrieval Meets Large Language Models: A Strategic Report from Chinese IR Community**, _Ai et al._, arXiv 2023. \[[Paper](https://arxiv.org/pdf/2307.09751.pdf)\]
