@@ -1,4 +1,4 @@
-![image](https://github.com/RUC-NLPIR/LLM4IR-Survey/assets/5660969/6948e185-d015-45e3-a026-c62b5dd21904)# LLM4IR-Survey
+# LLM4IR-Survey
 This is the repo for the survey of LLM4IR.
 
 ## Paper List
