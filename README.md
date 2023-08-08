@@ -107,7 +107,7 @@ Please kindly cite our paper if helps your research:
 3. **REPLUG: Retrieval-Augmented Black-Box Language Models**, _Shi et al._, arXiv 2023. \[[Paper](https://arxiv.org/pdf/2301.12652.pdf)\]
 4. **Atlas: Few-shot Learning with Retrieval Augmented Language Models**, _Izacard et al._, arXiv 2022. \[[Paper](https://arxiv.org/pdf/2208.03299.pdf)\]
 5. **RETA-LLM: A Retrieval-Augmented Large Language Model Toolkit**, _Liu et al._, arXiv 2023. \[[Paper](https://arxiv.org/pdf/2306.05212.pdf)\]
-6. **Improving language models by retrieving from trillions of tokens**, _Borgeaud et al.__, ICML 2022. \[[Paper](https://proceedings.mlr.press/v162/borgeaud22a/borgeaud22a.pdf)\]
+6. **Improving language models by retrieving from trillions of tokens**, _Borgeaud et al._, ICML 2022. \[[Paper](https://proceedings.mlr.press/v162/borgeaud22a/borgeaud22a.pdf)\]
 7. **In-Context Retrieval-Augmented Language Models**, _Ram et al._, arXiv 2023. \[[Paper](https://arxiv.org/pdf/2302.00083.pdf)\]
 8. **Active Retrieval Augmented Generation**, _Jiang et al._, arXiv 2023. \[[Paper](https://arxiv.org/pdf/2305.06983.pdf)\]
 #### Unified Reader
