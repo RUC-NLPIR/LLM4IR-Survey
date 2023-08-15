@@ -1,12 +1,11 @@
 # LLM4IR-Survey
-This is the collection of papers related to large language models for information retrieval. These papers are organized according to our survey paper [Large Language Models for Information Retrieval: A Survey](). 
+This is the collection of papers related to large language models for information retrieval. These papers are organized according to our survey paper [Large Language Models for Information Retrieval: A Survey](https://arxiv.org/abs/2308.07107). 
 
 Feel free to contact us if you find a mistake or have any advice. Email: yutaozhu94@gmail.com and dou@ruc.edu.cn.
 
 Please kindly cite our paper if helps your research:
 ```BibTex
 @article{LLM4IRSurvey,
-    title={Large Language Models for Information Retrieval: A Survey},
     author={Yutao Zhu and
             Huaying Yuan and
             Shuting Wang and
@@ -15,9 +14,13 @@ Please kindly cite our paper if helps your research:
             Chenlong Deng and
             Zhicheng Dou and
             Ji-Rong Wen},
+    title={Large Language Models for Information Retrieval: A Survey},
+    journal={CoRR},
+    volume={abs/2308.07107},
     year={2023},
-    journal={arXiv preprint arXiv:},
-    url={http://arxiv.org/abs/}
+    url={https://arxiv.org/abs/2308.07107},
+    eprinttype={arXiv},
+    eprint={2306.07401}
 }
 ```
 
