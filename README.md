@@ -107,7 +107,7 @@ Please kindly cite our paper if helps your research:
 4. **Is ChatGPT Good at Search? Investigating Large Language Models as Re-Ranking Agent**, _Sun et al._, arXiv 2023. \[[Paper](https://arxiv.org/pdf/2304.09542.pdf)\]
 
 ### Reader
-#### Separated Reader
+#### Passive Reader
 1. **REALM: Retrieval-Augmented Language Model Pre-Training**, _Guu et al._, arXiv 2020. \[[Paper](https://arxiv.org/pdf/2002.08909.pdf)\]
 2. **Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks**, _Lewis et al._, NeurIPS 2020. \[[Paper](https://proceedings.neurips.cc/paper/2020/file/6b493230205f780e1bc26945df7481e5-Paper.pdf)\]
 3. **REPLUG: Retrieval-Augmented Black-Box Language Models**, _Shi et al._, arXiv 2023. \[[Paper](https://arxiv.org/pdf/2301.12652.pdf)\]
@@ -119,7 +119,7 @@ Please kindly cite our paper if helps your research:
 9. **Improving language models by retrieving from trillions of tokens**, _Borgeaud et al._, ICML 2022. \[[Paper](https://proceedings.mlr.press/v162/borgeaud22a/borgeaud22a.pdf)\]
 10. **Interleaving retrieval with chain-of-thought reasoning for knowledge-intensive multi-step questions**, _Trivedi et al._, ACL 2023, \[[Paper](https://aclanthology.org/2023.acl-long.557.pdf)\]
 11. **Active Retrieval Augmented Generation**, _Jiang et al._, arXiv 2023. \[[Paper](https://arxiv.org/pdf/2305.06983.pdf)\]
-#### Unified Reader
+#### Active Reader
 1. **Measuring and Narrowing the Compositionality Gap in Language Models**, _Press et al._, arXiv 2022, \[[Paper](https://arxiv.org/pdf/2210.03350.pdf)\]
 2. **DEMONSTRATE–SEARCH–PREDICT: Composing retrieval and language models for knowledge-intensive NLP**, _Khattab et al._, arXiv 2022, \[[Paper](https://arxiv.org/pdf/2212.14024.pdf)\]
 3. **Answering Questions by Meta-Reasoning over Multiple Chains of Thought**, _Yoran et al._, arXiv 2023, \[[Paper](https://arxiv.org/pdf/2304.13007.pdf)\] 
