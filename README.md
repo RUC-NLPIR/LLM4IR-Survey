@@ -37,8 +37,8 @@ Please kindly cite our paper if helps your research:
   - [Prompting LLMs for Re-ranking](https://github.com/RUC-NLPIR/LLM4IR-Survey/tree/main#prompting-llms-for-re-ranking)
   - [Utilizing LLMs for Re-ranking Data Augmentation](https://github.com/RUC-NLPIR/LLM4IR-Survey/tree/main#utilizing-llms-for-re-ranking-data-augmentation)
 - [Reader](https://github.com/RUC-NLPIR/LLM4IR-Survey/tree/main#reader)
-  - [Separated Reader](https://github.com/RUC-NLPIR/LLM4IR-Survey/tree/main#separated-reader)
-  - [Unified Reader](https://github.com/RUC-NLPIR/LLM4IR-Survey/tree/main#unified-reader)
+  - [Passive Reader](https://github.com/RUC-NLPIR/LLM4IR-Survey/tree/main#passive-reader)
+  - [Active Reader](https://github.com/RUC-NLPIR/LLM4IR-Survey/tree/main#active-reader)
 - [Other Resources](https://github.com/RUC-NLPIR/LLM4IR-Survey/tree/main#other-resources)
 
 ## Paper List
