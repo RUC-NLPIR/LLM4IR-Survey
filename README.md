@@ -84,15 +84,15 @@ Please kindly cite our paper if helps your research:
 4. **Transformer memory as a differentiable search index**, _Tay et al._, NeurIPS 2022. \[[Paper](https://proceedings.neurips.cc/paper_files/paper/2022/file/892840a6123b5ec99ebaab8be1530fba-Paper-Conference.pdf)\]
 5. **Large Language Models are Built-in Autoregressive Search Engines**, _Ziems et al._, ACL 2023 (Findings). \[[Paper](https://aclanthology.org/2023.findings-acl.167.pdf)\]
 
-### Re-ranker
+### Reranker
 
-#### Fine-tuning LLMs for Re-ranking
+#### Fine-tuning LLMs for Reranking
 1. **Document Ranking with a Pretrained Sequence-to-Sequence Model**, _Nogueira et al._, EMNLP 2020 (Findings). \[[Paper](https://aclanthology.org/2020.findings-emnlp.63.pdf)\]
 2. **Text-to-Text Multi-view Learning for Passage Re-ranking**, _Ju et al._, SIGIR 2021 (Short Paper). \[[Paper](https://dl.acm.org/doi/pdf/10.1145/3404835.3463048)\] 
 3. **The Expando-Mono-Duo Design Pattern for Text Ranking with Pretrained Sequence-to-Sequence Models**, _Pradeep et al._, arXiv 2021. \[[Paper](https://arxiv.org/pdf/2101.05667.pdf)\] 
 4. **RankT5: Fine-Tuning T5 for Text Ranking with Ranking Losses**, _Zhuang et al._, SIGIR 2023 (Short Paper). \[[Paper](https://dl.acm.org/doi/pdf/10.1145/3539618.3592047)\] 
 
-#### Prompting LLMs for Re-ranking
+#### Prompting LLMs for Reranking
 1. **Holistic Evaluation of Language Models**, _Liang et al._, arXiv 2022. \[[Paper](https://arxiv.org/pdf/2211.09110.pdf)\] 
 2. **Improving Passage Retrieval with Zero-Shot Question Generation**, _Sachan et al._, EMNLP 2022. \[[Paper](https://aclanthology.org/2022.emnlp-main.249.pdf)\] 
 3. **Discrete Prompt Optimization via Constrained Generation for Zero-shot Re-ranker**, _Cho et al._, ACL 2023 (Findings). \[[Paper](https://aclanthology.org/2023.findings-acl.61.pdf)\] 
@@ -127,6 +127,6 @@ Please kindly cite our paper if helps your research:
 5. **WebCPM: Interactive Web Search for Chinese Long-form Question Answering**, _Qin et al._, ACL 2023. \[[Paper](https://aclanthology.org/2023.acl-long.499.pdf)\]
 
 ### Other Resources
-1. **ACL 2023 Tutorial: Retrieval-based Language Models and Applications**. \[[Link](https://acl2023-retrieval-lm.github.io/)\]
+1. **ACL 2023 Tutorial: Retrieval-based Language Models and Applications**, _Asai et al._, ACL 2023. \[[Link](https://acl2023-retrieval-lm.github.io/)\]
 2. **A Survey of Large Language Models**, _Zhao et al._, arXiv 2023. \[[Paper](https://arxiv.org/pdf/2303.18223.pdf)\]
 3. **Information Retrieval Meets Large Language Models: A Strategic Report from Chinese IR Community**, _Ai et al._, arXiv 2023. \[[Paper](https://arxiv.org/pdf/2307.09751.pdf)\]
