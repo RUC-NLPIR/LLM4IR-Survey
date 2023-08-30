@@ -55,8 +55,7 @@ Please kindly cite our paper if helps your research:
 8. **Large Language Models are Strong Zero-Shot Retriever**, _Shen et al._, arXiv 2023.  \[[Paper](https://arxiv.org/pdf/2304.14233.pdf)]
 
 #### Fine-tuning Methods
-1. **QUILL: Query Intent with Large Language Models using Retrieval Augmentation and Multi-stage Distillation**, _Srinivasan et al._, EMNLP 2022 (Industry). \[[Paper](https://aclanthology.org/2022.emnlp-industry.50.pdf)\]
-   p.s. This paper explore fine-tuning methods in baseline experiments.
+1. **QUILL: Query Intent with Large Language Models using Retrieval Augmentation and Multi-stage Distillation**, _Srinivasan et al._, EMNLP 2022 (Industry). \[[Paper](https://aclanthology.org/2022.emnlp-industry.50.pdf)\] (This paper explore fine-tuning methods in baseline experiments.)
 
 
 #### Knowledge Distillation Methods
@@ -112,7 +111,7 @@ Please kindly cite our paper if helps your research:
 2. **Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks**, _Lewis et al._, NeurIPS 2020. \[[Paper](https://proceedings.neurips.cc/paper/2020/file/6b493230205f780e1bc26945df7481e5-Paper.pdf)\]
 3. **REPLUG: Retrieval-Augmented Black-Box Language Models**, _Shi et al._, arXiv 2023. \[[Paper](https://arxiv.org/pdf/2301.12652.pdf)\]
 4. **Atlas: Few-shot Learning with Retrieval Augmented Language Models**, _Izacard et al._, arXiv 2022. \[[Paper](https://arxiv.org/pdf/2208.03299.pdf)\]
-5. **Internet-augmented language models through few-shot prompting for open-domain question answering**, _Lazaridou et al._, arXiv 2022. \[[Paper](https://arxiv.org/pdf/2203.05115.pdf)\]
+5. **Internet-augmented Language Models through Few-shot Prompting for Open-domain Question Answering**, _Lazaridou et al._, arXiv 2022. \[[Paper](https://arxiv.org/pdf/2203.05115.pdf)\]
 6. **Rethinking with Retrieval: Faithful Large Language Model Inference**, _He et al._, arXiv 2023. \[[Paper](https://arxiv.org/pdf/2301.00303.pdf)\]
 7. **RETA-LLM: A Retrieval-Augmented Large Language Model Toolkit**, _Liu et al._, arXiv 2023. \[[Paper](https://arxiv.org/pdf/2306.05212.pdf)\]
 8. **In-Context Retrieval-Augmented Language Models**, _Ram et al._, arXiv 2023. \[[Paper](https://arxiv.org/pdf/2302.00083.pdf)\]
