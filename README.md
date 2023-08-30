@@ -116,14 +116,14 @@ Please kindly cite our paper if helps your research:
 6. **Rethinking with Retrieval: Faithful Large Language Model Inference**, _He et al._, arXiv 2023. \[[Paper](https://arxiv.org/pdf/2301.00303.pdf)\]
 7. **RETA-LLM: A Retrieval-Augmented Large Language Model Toolkit**, _Liu et al._, arXiv 2023. \[[Paper](https://arxiv.org/pdf/2306.05212.pdf)\]
 8. **In-Context Retrieval-Augmented Language Models**, _Ram et al._, arXiv 2023. \[[Paper](https://arxiv.org/pdf/2302.00083.pdf)\]
-9. **Improving language models by retrieving from trillions of tokens**, _Borgeaud et al._, ICML 2022. \[[Paper](https://proceedings.mlr.press/v162/borgeaud22a/borgeaud22a.pdf)\]
-10. **Interleaving retrieval with chain-of-thought reasoning for knowledge-intensive multi-step questions**, _Trivedi et al._, ACL 2023, \[[Paper](https://aclanthology.org/2023.acl-long.557.pdf)\]
+9. **Improving Language Models by Retrieving from Trillions of Tokens**, _Borgeaud et al._, ICML 2022. \[[Paper](https://proceedings.mlr.press/v162/borgeaud22a/borgeaud22a.pdf)\]
+10. **Interleaving Retrieval with Chain-of-thought Reasoning for Knowledge-intensive Multi-step Questions**, _Trivedi et al._, ACL 2023, \[[Paper](https://aclanthology.org/2023.acl-long.557.pdf)\]
 11. **Active Retrieval Augmented Generation**, _Jiang et al._, arXiv 2023. \[[Paper](https://arxiv.org/pdf/2305.06983.pdf)\]
 #### Active Reader
 1. **Measuring and Narrowing the Compositionality Gap in Language Models**, _Press et al._, arXiv 2022, \[[Paper](https://arxiv.org/pdf/2210.03350.pdf)\]
-2. **DEMONSTRATE–SEARCH–PREDICT: Composing retrieval and language models for knowledge-intensive NLP**, _Khattab et al._, arXiv 2022, \[[Paper](https://arxiv.org/pdf/2212.14024.pdf)\]
+2. **DEMONSTRATE–SEARCH–PREDICT: Composing Retrieval and Language Models for Knowledge-intensive NLP**, _Khattab et al._, arXiv 2022, \[[Paper](https://arxiv.org/pdf/2212.14024.pdf)\]
 3. **Answering Questions by Meta-Reasoning over Multiple Chains of Thought**, _Yoran et al._, arXiv 2023, \[[Paper](https://arxiv.org/pdf/2304.13007.pdf)\] 
-4. **WebGPT: Browser-assisted question-answering with human feedback**, _Nakano et al._, arXiv 2021. \[[Paper](https://arxiv.org/pdf/2112.09332.pdf)\]
+4. **WebGPT: Browser-assisted Question-answering with Human Feedback**, _Nakano et al._, arXiv 2021. \[[Paper](https://arxiv.org/pdf/2112.09332.pdf)\]
 5. **WebCPM: Interactive Web Search for Chinese Long-form Question Answering**, _Qin et al._, ACL 2023. \[[Paper](https://aclanthology.org/2023.acl-long.499.pdf)\]
 
 ### Other Resources
