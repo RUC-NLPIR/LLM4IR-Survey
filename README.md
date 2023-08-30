@@ -79,9 +79,9 @@ Please kindly cite our paper if helps your research:
 
 #### Employing LLMs to Enhance Model Architecture
 1. **Text and Code Embeddings by Contrastive Pre-Training**, _Neelakantan et al._, arXiv 2022. \[[Paper](https://cdn.openai.com/papers/Text_and_Code_Embeddings_by_Contrastive_Pre_Training.pdf)\]
-2. **Large Dual Encoders Are Generalizable Retrievers**, _Ni et al._, ACL 2022. \[[Paper](https://aclanthology.org/2022.emnlp-main.669.pdf)\]
+2. **Large Dual Encoders are Generalizable Retrievers**, _Ni et al._, ACL 2022. \[[Paper](https://aclanthology.org/2022.emnlp-main.669.pdf)\]
 3. **Task-aware Retrieval with Instructions**, _Asai et al._, ACL 2023 (Findings). \[[Paper](https://aclanthology.org/2023.findings-acl.225.pdf)\]
-4. **Transformer memory as a differentiable search index**, _Tay et al._, NeurIPS 2022. \[[Paper](https://proceedings.neurips.cc/paper_files/paper/2022/file/892840a6123b5ec99ebaab8be1530fba-Paper-Conference.pdf)\]
+4. **Transformer Memory as a Differentiable Search Index**, _Tay et al._, NeurIPS 2022. \[[Paper](https://proceedings.neurips.cc/paper_files/paper/2022/file/892840a6123b5ec99ebaab8be1530fba-Paper-Conference.pdf)\]
 5. **Large Language Models are Built-in Autoregressive Search Engines**, _Ziems et al._, ACL 2023 (Findings). \[[Paper](https://aclanthology.org/2023.findings-acl.167.pdf)\]
 
 ### Reranker
