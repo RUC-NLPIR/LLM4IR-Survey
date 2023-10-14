@@ -68,12 +68,13 @@ Please kindly cite our paper if helps your research:
 ### Retriever
 #### Leveraging LLMs to Generate Search Data
 1. **InPars: Data Augmentation for Information Retrieval using Large Language Models**, _Bonifacio et al._, arXiv 2022. \[[Paper](https://arxiv.org/pdf/2202.05144.pdf)\]
-2. **InPars-v2: Large Language Models as Efficient Dataset Generators for Information Retrieval**, _Jeronymo et al._, arXiv 2023. \[[Paper](https://arxiv.org/abs/2301.01820)\]
-3. **Promptagator: Few-shot Dense Retrieval From 8 Examples**, _Dai et al._, ICLR 2023. \[[Paper](https://arxiv.org/pdf/2209.11755.pdf)\]
-4. **AugTriever: Unsupervised Dense Retrieval by Scalable Data Augmentation**, _Meng et al._, arXiv 2023. \[[Paper](https://arxiv.org/pdf/2212.08841.pdf)\]
-5. **UDAPDR: Unsupervised Domain Adaptation via LLM Prompting and Distillation of Rerankers**, _Saad-Falco et al._, arXiv 2023. \[[Paper](https://arxiv.org/pdf/2303.00807.pdf)\]
-6. **Soft Prompt Tuning for Augmenting Dense Retrieval with Large Language Models**, _Peng et al._, arXiv 2023. \[[Paper](https://arxiv.org/pdf/2307.08303.pdf)\]
-7. **Questions Are All You Need to Train a Dense Passage Retriever**, _Sachan et al._, ACL 2023. \[[Paper](https://aclanthology.org/2023.tacl-1.35.pdf)\]
+2. **Beyond Factuality: A Comprehensive Evaluation of Large Language Models as Knowledge Generators**, _Chen et al._, EMNLP 2023 \[[Paper](https://arxiv.org/abs/2310.07289)\]
+3. **InPars-v2: Large Language Models as Efficient Dataset Generators for Information Retrieval**, _Jeronymo et al._, arXiv 2023. \[[Paper](https://arxiv.org/abs/2301.01820)\]
+4. **Promptagator: Few-shot Dense Retrieval From 8 Examples**, _Dai et al._, ICLR 2023. \[[Paper](https://arxiv.org/pdf/2209.11755.pdf)\]
+5. **AugTriever: Unsupervised Dense Retrieval by Scalable Data Augmentation**, _Meng et al._, arXiv 2023. \[[Paper](https://arxiv.org/pdf/2212.08841.pdf)\]
+6. **UDAPDR: Unsupervised Domain Adaptation via LLM Prompting and Distillation of Rerankers**, _Saad-Falco et al._, arXiv 2023. \[[Paper](https://arxiv.org/pdf/2303.00807.pdf)\]
+7. **Soft Prompt Tuning for Augmenting Dense Retrieval with Large Language Models**, _Peng et al._, arXiv 2023. \[[Paper](https://arxiv.org/pdf/2307.08303.pdf)\]
+8. **Questions Are All You Need to Train a Dense Passage Retriever**, _Sachan et al._, ACL 2023. \[[Paper](https://aclanthology.org/2023.tacl-1.35.pdf)\]
 
 
 #### Employing LLMs to Enhance Model Architecture
