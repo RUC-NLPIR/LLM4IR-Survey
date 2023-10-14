@@ -74,7 +74,7 @@ Please kindly cite our paper if helps your research:
 5. **UDAPDR: Unsupervised Domain Adaptation via LLM Prompting and Distillation of Rerankers**, _Saad-Falco et al._, arXiv 2023. \[[Paper](https://arxiv.org/pdf/2303.00807.pdf)\]
 6. **Soft Prompt Tuning for Augmenting Dense Retrieval with Large Language Models**, _Peng et al._, arXiv 2023. \[[Paper](https://arxiv.org/pdf/2307.08303.pdf)\]
 7. **Questions Are All You Need to Train a Dense Passage Retriever**, _Sachan et al._, ACL 2023. \[[Paper](https://aclanthology.org/2023.tacl-1.35.pdf)\]
-
+8. **Beyond Factuality: A Comprehensive Evaluation of Large Language Models as Knowledge Generators**, _Chen et al._, EMNLP 2023. \[[Paper](https://arxiv.org/abs/2310.07289)\]
 
 #### Employing LLMs to Enhance Model Architecture
 1. **Text and Code Embeddings by Contrastive Pre-Training**, _Neelakantan et al._, arXiv 2022. \[[Paper](https://cdn.openai.com/papers/Text_and_Code_Embeddings_by_Contrastive_Pre_Training.pdf)\]
