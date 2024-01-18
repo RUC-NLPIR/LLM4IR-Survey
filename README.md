@@ -39,6 +39,9 @@ Please kindly cite our paper if helps your research:
 - [Reader](https://github.com/RUC-NLPIR/LLM4IR-Survey/tree/main#reader)
   - [Passive Reader](https://github.com/RUC-NLPIR/LLM4IR-Survey/tree/main#passive-reader)
   - [Active Reader](https://github.com/RUC-NLPIR/LLM4IR-Survey/tree/main#active-reader)
+- [Search Agent](https://github.com/RUC-NLPIR/LLM4IR-Survey/tree/main#search-agent)
+  - [Static Agent](https://github.com/RUC-NLPIR/LLM4IR-Survey/tree/main#static-agent)
+  - [Dynamic Agent](https://github.com/RUC-NLPIR/LLM4IR-Survey/tree/main#dynamic-agent)
 - [Other Resources](https://github.com/RUC-NLPIR/LLM4IR-Survey/tree/main#other-resources)
 
 ## Paper List
@@ -125,6 +128,22 @@ Please kindly cite our paper if helps your research:
 3. **Answering Questions by Meta-Reasoning over Multiple Chains of Thought**, _Yoran et al._, arXiv 2023, \[[Paper](https://arxiv.org/pdf/2304.13007.pdf)\] 
 4. **WebGPT: Browser-assisted Question-answering with Human Feedback**, _Nakano et al._, arXiv 2021. \[[Paper](https://arxiv.org/pdf/2112.09332.pdf)\]
 5. **WebCPM: Interactive Web Search for Chinese Long-form Question Answering**, _Qin et al._, ACL 2023. \[[Paper](https://aclanthology.org/2023.acl-long.499.pdf)\]
+
+### Search Agent
+#### Static Agent
+1. **LaMDA: Language Models for Dialog Applications**, _Thoppilan et al._, arXiv 2022. \[[Paper](https://arxiv.org/pdf/2201.08239.pdf)\]
+2. **Language Models that Seek for Knowledge: Modular Search & Generation for Dialogue and Prompt Completion**, _Shuster et al._, EMNLP 2022 (Findings). \[[Paper](https://aclanthology.org/2022.findings-emnlp.27.pdf)\]
+3. **Teaching language models to support answers with verified quotes**, _Menick et al._, arXiv 2022. \[[Paper](https://arxiv.org/pdf/2203.11147.pdf)\]
+4. **WebGLM: Towards An Efficient Web-Enhanced Question Answering System with Human Preferences**, _Liu et al._, KDD 2023. \[[Paper](https://dl.acm.org/doi/pdf/10.1145/3580305.3599931)\]
+5. **A Real-World WebAgent with Planning, Long Context Understanding, and Program Synthesis**, _Gur et al._, arXiv 2023. \[[Paper](https://arxiv.org/pdf/2307.12856.pdf)\]
+6. **Know Where to Go: Make LLM a Relevant, Responsible, and Trustworthy Searcher**, _Shi et al._, arXiv 2023. \[[Paper](https://arxiv.org/pdf/2310.12443.pdf)\]
+#### Dynamic Agent
+1. **WebGPT: Browser-assisted question-answering with human feedback**, _Nakano et al._, arXiv 2021. \[[Paper](https://arxiv.org/pdf/2112.09332.pdf)\]
+2. **WebShop: Towards Scalable Real-World Web Interaction with Grounded Language Agents**, _Yao et al._, arXiv 2022. \[[Paper](https://arxiv.org/pdf/2207.01206.pdf)\]
+3. **WebCPM: Interactive Web Search for Chinese Long-form Question Answering**, _Qin et al._, ACL 2023. \[[Paper](https://aclanthology.org/2023.acl-long.499.pdf)\]
+4. **Mind2Web: Towards a Generalist Agent for the Web**, _Deng et al._, arXiv 2023. \[[Paper](https://arxiv.org/pdf/2306.06070.pdf)\]
+5. **WebArena: A Realistic Web Environment for Building Autonomous Agents**, _Zhou et al._, arXiv 2023. \[[Paper](https://arxiv.org/pdf/2307.13854.pdf)\]
+6. **Hierarchical Prompting Assists Large Language Model on Web Navigation**, _Lo et al._, EMNLP 2023 (Findings). \[[Paper](https://aclanthology.org/2023.findings-emnlp.685.pdf)\]
 
 ### Other Resources
 1. **ACL 2023 Tutorial: Retrieval-based Language Models and Applications**, _Asai et al._, ACL 2023. \[[Link](https://acl2023-retrieval-lm.github.io/)\]
