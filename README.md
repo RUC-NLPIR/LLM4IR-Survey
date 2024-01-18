@@ -125,9 +125,7 @@ Please kindly cite our paper if helps your research:
 #### Active Reader
 1. **Measuring and Narrowing the Compositionality Gap in Language Models**, _Press et al._, arXiv 2022, \[[Paper](https://arxiv.org/pdf/2210.03350.pdf)\]
 2. **DEMONSTRATE–SEARCH–PREDICT: Composing Retrieval and Language Models for Knowledge-intensive NLP**, _Khattab et al._, arXiv 2022, \[[Paper](https://arxiv.org/pdf/2212.14024.pdf)\]
-3. **Answering Questions by Meta-Reasoning over Multiple Chains of Thought**, _Yoran et al._, arXiv 2023, \[[Paper](https://arxiv.org/pdf/2304.13007.pdf)\] 
-4. **WebGPT: Browser-assisted Question-answering with Human Feedback**, _Nakano et al._, arXiv 2021. \[[Paper](https://arxiv.org/pdf/2112.09332.pdf)\]
-5. **WebCPM: Interactive Web Search for Chinese Long-form Question Answering**, _Qin et al._, ACL 2023. \[[Paper](https://aclanthology.org/2023.acl-long.499.pdf)\]
+3. **Answering Questions by Meta-Reasoning over Multiple Chains of Thought**, _Yoran et al._, arXiv 2023, \[[Paper](https://arxiv.org/pdf/2304.13007.pdf)\]
 
 ### Search Agent
 #### Static Agent
@@ -143,7 +141,7 @@ Please kindly cite our paper if helps your research:
 3. **WebCPM: Interactive Web Search for Chinese Long-form Question Answering**, _Qin et al._, ACL 2023. \[[Paper](https://aclanthology.org/2023.acl-long.499.pdf)\]
 4. **Mind2Web: Towards a Generalist Agent for the Web**, _Deng et al._, arXiv 2023. \[[Paper](https://arxiv.org/pdf/2306.06070.pdf)\]
 5. **WebArena: A Realistic Web Environment for Building Autonomous Agents**, _Zhou et al._, arXiv 2023. \[[Paper](https://arxiv.org/pdf/2307.13854.pdf)\]
-6. **Hierarchical Prompting Assists Large Language Model on Web Navigation**, _Lo et al._, EMNLP 2023 (Findings). \[[Paper](https://aclanthology.org/2023.findings-emnlp.685.pdf)\]
+6. **Hierarchical Prompting Assists Large Language Model on Web Navigation**, _Sridhar et al._, EMNLP 2023 (Findings). \[[Paper](https://aclanthology.org/2023.findings-emnlp.685.pdf)\]
 
 ### Other Resources
 1. **ACL 2023 Tutorial: Retrieval-based Language Models and Applications**, _Asai et al._, ACL 2023. \[[Link](https://acl2023-retrieval-lm.github.io/)\]
