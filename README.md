@@ -34,9 +34,9 @@ Please kindly cite our paper if helps your research:
   - [Leveraging LLMs to Generate Search Data](https://github.com/RUC-NLPIR/LLM4IR-Survey/tree/main#llm-for-producing-search-data)
   - [Employing LLMs to Enhance Model Architecture](https://github.com/RUC-NLPIR/LLM4IR-Survey/tree/main#llm-for-enhancing-retriever)
 - [Re-ranker](https://github.com/RUC-NLPIR/LLM4IR-Survey/tree/main#re-ranker)
-  - [Fine-tuning LLMs for Re-ranking](https://github.com/RUC-NLPIR/LLM4IR-Survey/tree/main#fine-tuning-llms-for-re-ranking)
-  - [Prompting LLMs for Re-ranking](https://github.com/RUC-NLPIR/LLM4IR-Survey/tree/main#prompting-llms-for-re-ranking)
-  - [Utilizing LLMs for Re-ranking Data Augmentation](https://github.com/RUC-NLPIR/LLM4IR-Survey/tree/main#utilizing-llms-for-re-ranking-data-augmentation)
+  - [Utilizing LLMs as Supervised Rerankers](https://github.com/RUC-NLPIR/LLM4IR-Survey/tree/main#fine-tuning-llms-for-re-ranking)
+  - [Utilizing LLMs as Unsupervised Rerankers](https://github.com/RUC-NLPIR/LLM4IR-Survey/tree/main#prompting-llms-for-re-ranking)
+  - [Utilizing LLMs for Training Data Augmentation](https://github.com/RUC-NLPIR/LLM4IR-Survey/tree/main#utilizing-llms-for-re-ranking-data-augmentation)
 - [Reader](https://github.com/RUC-NLPIR/LLM4IR-Survey/tree/main#reader)
   - [Passive Reader](https://github.com/RUC-NLPIR/LLM4IR-Survey/tree/main#passive-reader)
   - [Active Reader](https://github.com/RUC-NLPIR/LLM4IR-Survey/tree/main#active-reader)
@@ -94,25 +94,36 @@ Please kindly cite our paper if helps your research:
 
 ### Reranker
 
-#### Fine-tuning LLMs for Reranking
-1. **Document Ranking with a Pretrained Sequence-to-Sequence Model**, _Nogueira et al._, EMNLP 2020 (Findings). \[[Paper](https://aclanthology.org/2020.findings-emnlp.63.pdf)\]
-2. **Text-to-Text Multi-view Learning for Passage Re-ranking**, _Ju et al._, SIGIR 2021 (Short Paper). \[[Paper](https://dl.acm.org/doi/pdf/10.1145/3404835.3463048)\] 
-3. **The Expando-Mono-Duo Design Pattern for Text Ranking with Pretrained Sequence-to-Sequence Models**, _Pradeep et al._, arXiv 2021. \[[Paper](https://arxiv.org/pdf/2101.05667.pdf)\] 
-4. **RankT5: Fine-Tuning T5 for Text Ranking with Ranking Losses**, _Zhuang et al._, SIGIR 2023 (Short Paper). \[[Paper](https://dl.acm.org/doi/pdf/10.1145/3539618.3592047)\] 
+#### Utilizing LLMs as Supervised Rerankers
+1. **Multi-Stage Document Ranking with BERT**, *Nogueira et al.*, arXiv 2019. \[[Paper](https://arxiv.org/pdf/1910.14424.pdf)\] 
+2. **Document Ranking with a Pretrained Sequence-to-Sequence Model**, _Nogueira et al._, EMNLP 2020 (Findings). \[[Paper](https://aclanthology.org/2020.findings-emnlp.63.pdf)\]
+3. **Text-to-Text Multi-view Learning for Passage Re-ranking**, _Ju et al._, SIGIR 2021 (Short Paper). \[[Paper](https://dl.acm.org/doi/pdf/10.1145/3404835.3463048)\] 
+4. **The Expando-Mono-Duo Design Pattern for Text Ranking with Pretrained Sequence-to-Sequence Models**, _Pradeep et al._, arXiv 2021. \[[Paper](https://arxiv.org/pdf/2101.05667.pdf)\] 
+5. **RankT5: Fine-Tuning T5 for Text Ranking with Ranking Losses**, _Zhuang et al._, SIGIR 2023 (Short Paper). \[[Paper](https://dl.acm.org/doi/pdf/10.1145/3539618.3592047)\] 
+6. **Fine-Tuning LLaMA for Multi-Stage Text Retrieval**, *Ma et al.*, arXiv 2023. \[[Paper](https://arxiv.org/pdf/2310.08319v1.pdf)\]
+7. **RankingGPT: Empowering Large Language Models in Text Ranking with Progressive Enhancement**, *Zhang et al.*, arXiv 2023. \[[Paper](https://arxiv.org/pdf/2311.16720.pdf)\]
+8. **Rank-without-GPT: Building GPT-Independent Listwise Rerankers on Open-Source Large Language Models**, *Zhang et al.*, arXiv 2023. \[[Paper](https://arxiv.org/pdf/2312.02969.pdf)\]
 
-#### Prompting LLMs for Reranking
+#### Utilizing LLMs as Unsupervised Rerankers
 1. **Holistic Evaluation of Language Models**, _Liang et al._, arXiv 2022. \[[Paper](https://arxiv.org/pdf/2211.09110.pdf)\] 
 2. **Improving Passage Retrieval with Zero-Shot Question Generation**, _Sachan et al._, EMNLP 2022. \[[Paper](https://aclanthology.org/2022.emnlp-main.249.pdf)\] 
 3. **Discrete Prompt Optimization via Constrained Generation for Zero-shot Re-ranker**, _Cho et al._, ACL 2023 (Findings). \[[Paper](https://aclanthology.org/2023.findings-acl.61.pdf)\] 
-4. **Is ChatGPT Good at Search? Investigating Large Language Models as Re-Ranking Agent**, _Sun et al._, arXiv 2023. \[[Paper](https://arxiv.org/pdf/2304.09542.pdf)\] 
-5. **Zero-Shot Listwise Document Reranking with a Large Language Model**, _Ma et al._, arXiv 2023. \[[Paper](https://arxiv.org/pdf/2305.02156.pdf)\] 
-6. **Large Language Models are Effective Text Rankers with Pairwise Ranking Prompting**, _Qin et al._, arXiv 2023. \[[Paper](https://arxiv.org/pdf/2306.17563.pdf)\] 
+4. **Open-source Large Language Models are Strong Zero-shot Query Likelihood Models for Document Ranking**, *Zhuang et al.*, EMNLP 2023 (Findings). \[[Paper](https://aclanthology.org/2023.findings-emnlp.590.pdf)\]
+5. **PaRaDe: Passage Ranking using Demonstrations with Large Language Models**, *Drozdov et al.*, EMNLP 2023 (Findings). \[[Paper](https://arxiv.org/pdf/2310.14408.pdf)\]
+6. **Beyond Yes and No: Improving Zero-Shot LLM Rankers via Scoring Fine-Grained Relevance Labels**, *Zhuang et al.*, arXiv 2023. \[[Paper](https://arxiv.org/pdf/2310.14122.pdf)\]
+7. **Is ChatGPT Good at Search? Investigating Large Language Models as Re-Ranking Agent**, _Sun et al._, arXiv 2023. \[[Paper](https://arxiv.org/pdf/2304.09542.pdf)\] 
+8. **Zero-Shot Listwise Document Reranking with a Large Language Model**, _Ma et al._, arXiv 2023. \[[Paper](https://arxiv.org/pdf/2305.02156.pdf)\] 
+9. **Found in the Middle: Permutation Self-Consistency Improves Listwise Ranking in Large Language Models**, *Tang et al.*, arXiv 2023. \[[Paper](https://arxiv.org/pdf/2310.07712.pdf)\]
+10. **Large Language Models are Effective Text Rankers with Pairwise Ranking Prompting**, _Qin et al._, arXiv 2023. \[[Paper](https://arxiv.org/pdf/2306.17563.pdf)\] 
+11. **A Setwise Approach for Effective and Highly Efficient Zero-shot Ranking with Large Language Models**, *Zhuang et al.*, arXiv 2023. \[[Paper](https://arxiv.org/pdf/2310.09497.pdf)\]
 
 #### Utilizing LLMs for Training Data Augmentation
 1. **ExaRanker: Explanation-Augmented Neural Ranker**, _Ferraretto et al._, SIGIR 2023 (Short Paper). \[[Paper](https://dl.acm.org/doi/pdf/10.1145/3539618.3592067)\]
 2. **InPars-Light: Cost-Effective Unsupervised Training of Efficient Rankers**, _Boytsov et al._, arXiv 2023. \[[Paper](https://arxiv.org/pdf/2301.02998.pdf)\]
 3. **Generating Synthetic Documents for Cross-Encoder Re-Rankers**, _Askari et al._, arXiv 2023. \[[Paper](https://arxiv.org/pdf/2305.02320.pdf)\]
-4. **Is ChatGPT Good at Search? Investigating Large Language Models as Re-Ranking Agent**, _Sun et al._, arXiv 2023. \[[Paper](https://arxiv.org/pdf/2304.09542.pdf)\]
+4. **Instruction Distillation Makes Large Language Models Efficient Zero-shot Rankers**, *Sun et al.*, arXiv 2023. \[[Paper](https://arxiv.org/pdf/2311.01555.pdf)\]
+5. **RankVicuna: Zero-Shot Listwise Document Reranking with Open-Source Large Language Models**, *Pradeep et al.*, arXiv 2023. \[[Paper](https://arxiv.org/pdf/2309.15088.pdf)\]
+6. **RankZephyr: Effective and Robust Zero-Shot Listwise Reranking is a Breeze!**, *Pradeep et al.*, arXiv 2023. \[[Paper](https://arxiv.org/pdf/2312.02724.pdf)\]
 
 ### Reader
 #### Passive Reader
