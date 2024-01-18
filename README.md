@@ -12,6 +12,7 @@ Please kindly cite our paper if helps your research:
             Jiongnan Liu and
             Wenhan Liu and
             Chenlong Deng and
+            Haonan Chen and
             Zhicheng Dou and
             Ji-Rong Wen},
     title={Large Language Models for Information Retrieval: A Survey},
