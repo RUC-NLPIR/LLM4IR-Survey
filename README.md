@@ -28,7 +28,7 @@ Please kindly cite our paper if helps your research:
 ## 🚀 Update Log
 - Version 2 \[2024-01-19\]
   - We added a new section to introduce search agents, which represent an innovative approach to integrating LLMs with IR systems.
-  - Rewriter: 
+  - Rewriter:  We added recent works on LLM-based query rewriting, most of which focus on conversational search.
   - Retriever: We added the latest techniques that leverage LLMs to expand the training corpus for retrievers or to enhance retrievers' architectures.
   - Reranker: 
   - Reader: We added the latest studies in LLM-enhanced reader area, including a section introducing the reference compression technique, a section discussing the applications of LLM-enhanced readers, and a section analyzing the characteristics of LLM-enhanced readers.
