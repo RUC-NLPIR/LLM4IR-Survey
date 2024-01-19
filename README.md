@@ -31,7 +31,8 @@ Please kindly cite our paper if helps your research:
   - Rewriter:  We added recent works on LLM-based query rewriting, most of which focus on conversational search.
   - Retriever: We added the latest techniques that leverage LLMs to expand the training corpus for retrievers or to enhance retrievers' architectures.
   - Reranker: 
-  - Reader: We added the latest studies in the LLM-enhanced reader area, including a section introducing the reference compression technique, a section discussing the applications of LLM-enhanced readers, and a section analyzing the characteristics of LLM-enhanced readers.
+  - Reader: We added the latest studies in LLM-enhanced reader area, including a section introducing the reference compression technique, a section discussing the applications of LLM-enhanced readers, and a section analyzing the characteristics of LLM-enhanced readers.
+  - Future Direction: We added a section about search agents and a section discussing the bias caused by leveraging LLMs into IR systems.
 
 ## 📋 Table of Content
 - [Query Rewriter](https://github.com/RUC-NLPIR/LLM4IR-Survey/tree/main#query-rewriter)
