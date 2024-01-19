@@ -168,6 +168,11 @@ Please kindly cite our paper if helps your research:
 3. **TCRA-LLM: Token Compression Retrieval Augmented Large Language Model for Inference Cost Reduction**, _Liu et al._, arXiv 2023, \[[Paper](https://aclanthology.org/2023.findings-emnlp.655.pdf)\]
 4. **Learning to Filter Context for Retrieval-Augmented Generation**, _Wang et al._, arXiv 2023, \[[Paper](https://arxiv.org/pdf/2311.08377.pdf)\]
 #### Analysis
+1. **Lost in the Middle: How Language Models Use Long Contexts**, _Liu et al._, arXiv 2023, \[[Paper](https://arxiv.org/pdf/2307.03172.pdf)\]
+2. **Investigating the Factual Knowledge Boundary of Large Language Models with Retrieval Augmentation**, _Ren et al._, arXiv 2023, \[[Paper](https://arxiv.org/pdf/2307.11019.pdf)\]
+3. **Exploring the Integration Strategies of Retriever and Large Language Models**, _Liu et al._, arXiv 2023, \[[Paper](https://arxiv.org/pdf/2308.12574.pdf)\]
+4. **Characterizing Attribution and Fluency Tradeoffs for Retrieval-Augmented Large Language Models**, _Aksitov et al._, arXiv 2023, \[[Paper](https://arxiv.org/pdf/2302.05578.pdf)\]
+5. **When Not to Trust Language Models: Investigating Effectiveness of Parametric and Non-Parametric Memories**, _Mallen et al._, ACL 2023, \[[Paper](https://aclanthology.org/2023.acl-long.546.pdf)\]
 
 
 
