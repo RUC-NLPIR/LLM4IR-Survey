@@ -24,6 +24,9 @@ Please kindly cite our paper if helps your research:
     eprint={2306.07401}
 }
 ```
+## Update
+- Version 2 \[2024-01-19\]
+  - We 
 
 ## Table of Content
 - [Query Rewriter](https://github.com/RUC-NLPIR/LLM4IR-Survey/tree/main#query-rewriter)
