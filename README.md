@@ -31,7 +31,7 @@ Please kindly cite our paper if helps your research:
   - Rewriter:  We added recent works on LLM-based query rewriting, most of which focus on conversational search.
   - Retriever: We added the latest techniques that leverage LLMs to expand the training corpus for retrievers or to enhance retrievers' architectures.
   - Reranker: 
-  - Reader: We added the latest studies in LLM-enhanced reader area, including a section introducing the reference compression technique, a section discussing the applications of LLM-enhanced readers, and a section analyzing the characteristics of LLM-enhanced readers.
+  - Reader: We added the latest studies in the LLM-enhanced reader area, including a section introducing the reference compression technique, a section discussing the applications of LLM-enhanced readers, and a section analyzing the characteristics of LLM-enhanced readers.
 
 ## 📋 Table of Content
 - [Query Rewriter](https://github.com/RUC-NLPIR/LLM4IR-Survey/tree/main#query-rewriter)
@@ -48,6 +48,9 @@ Please kindly cite our paper if helps your research:
 - [Reader](https://github.com/RUC-NLPIR/LLM4IR-Survey/tree/main#reader)
   - [Passive Reader](https://github.com/RUC-NLPIR/LLM4IR-Survey/tree/main#passive-reader)
   - [Active Reader](https://github.com/RUC-NLPIR/LLM4IR-Survey/tree/main#active-reader)
+  - [Compressor](https://github.com/RUC-NLPIR/LLM4IR-Survey/tree/main#compressor)
+  - [Analysis](https://github.com/RUC-NLPIR/LLM4IR-Survey/tree/main#analysis)
+  - [Applications](https://github.com/RUC-NLPIR/LLM4IR-Survey/tree/main#applications)
 - [Search Agent](https://github.com/RUC-NLPIR/LLM4IR-Survey/tree/main#search-agent)
   - [Static Agent](https://github.com/RUC-NLPIR/LLM4IR-Survey/tree/main#static-agent)
   - [Dynamic Agent](https://github.com/RUC-NLPIR/LLM4IR-Survey/tree/main#dynamic-agent)
@@ -144,20 +147,19 @@ Please kindly cite our paper if helps your research:
 5. **Internet-augmented Language Models through Few-shot Prompting for Open-domain Question Answering**, _Lazaridou et al._, arXiv 2022. \[[Paper](https://arxiv.org/pdf/2203.05115.pdf)\]
 6. **Rethinking with Retrieval: Faithful Large Language Model Inference**, _He et al._, arXiv 2023. \[[Paper](https://arxiv.org/pdf/2301.00303.pdf)\]
 7. **FreshLLMs: Refreshing Large Language Models with Search Engine Augmentation**, _Vu et al._, arxiv 2023. \[[Paper](https://doi.org/10.48550/arXiv.2310.03214)\]
-8. **RETA-LLM: A Retrieval-Augmented Large Language Model Toolkit**, _Liu et al._, arXiv 2023. \[[Paper](https://arxiv.org/pdf/2306.05212.pdf)\]
-9. **Enabling Large Language Models to Generate Text with Citations**, _Gao et al._, EMNLP 2023. \[[Paper](https://aclanthology.org/2023.emnlp-main.398.pdf)\]
-10. **Chain-of-Note: Enhancing Robustness in Retrieval-Augmented Language Models**, _Yu et al._, arxiv 2023. \[[Paper](https://arxiv.org/pdf/2311.09210.pdf)\]
-11. **Improving Retrieval-Augmented Large Language Models via Data Importance Learning**, _Lyu et al._, arXiv 2023. \[[Paper](https://arxiv.org/pdf/2307.03027.pdf)\]
-12. **Search Augmented Instruction Learning**, _Luo et al._, EMNLP 2023. \[[Paper](https://aclanthology.org/2023.findings-emnlp.242.pdf)\]
-13. **RADIT: Retrieval-Augmented Dual Instruction Tuning**, _Lin et al._, arXiv 2023, \[[Paper](https://arxiv.org/pdf/2310.01352.pdf)\]
-14. **Improving Language Models by Retrieving from Trillions of Tokens**, _Borgeaud et al._, ICML 2022. \[[Paper](https://proceedings.mlr.press/v162/borgeaud22a/borgeaud22a.pdf)\]
-15. **In-Context Retrieval-Augmented Language Models**, _Ram et al._, arXiv 2023. \[[Paper](https://arxiv.org/pdf/2302.00083.pdf)\]
-16. **Interleaving Retrieval with Chain-of-thought Reasoning for Knowledge-intensive Multi-step Questions**, _Trivedi et al._, ACL 2023, \[[Paper](https://aclanthology.org/2023.acl-long.557.pdf)\]
-17. **Improving Language Models via Plug-and-Play Retrieval Feedback**, _Yu et al._, arXiv 2023, \[[Paper](https://arxiv.org/pdf/2305.14002.pdf)\]
-18. **Enhancing Retrieval-Augmented Large Language Models with Iterative Retrieval-Generation Synergy**, _Shao et al._, EMNLP 2023. \[[Paper](https://aclanthology.org/2023.findings-emnlp.620.pdf)\]
-19. **Retrieval-Generation Synergy Augmented Large Language Models**, _Feng et al._, arXiv 2023. \[[Paper](https://arxiv.org/pdf/2310.05149.pdf)\]
-20. **Self-RAG: Learning to Retrieve, Generate, and Critique through Self-Reflection**, _Asai et al._, arXiv 2023. \[[Paper](https://arxiv.org/pdf/2310.11511.pdf)\]
-21. **Active Retrieval Augmented Generation**, _Jiang et al._, EMNLP 2023. \[[Paper](https://aclanthology.org/2023.emnlp-main.495.pdf)\]
+8. **Enabling Large Language Models to Generate Text with Citations**, _Gao et al._, EMNLP 2023. \[[Paper](https://aclanthology.org/2023.emnlp-main.398.pdf)\]
+9. **Chain-of-Note: Enhancing Robustness in Retrieval-Augmented Language Models**, _Yu et al._, arxiv 2023. \[[Paper](https://arxiv.org/pdf/2311.09210.pdf)\]
+10. **Improving Retrieval-Augmented Large Language Models via Data Importance Learning**, _Lyu et al._, arXiv 2023. \[[Paper](https://arxiv.org/pdf/2307.03027.pdf)\]
+11. **Search Augmented Instruction Learning**, _Luo et al._, EMNLP 2023. \[[Paper](https://aclanthology.org/2023.findings-emnlp.242.pdf)\]
+12. **RADIT: Retrieval-Augmented Dual Instruction Tuning**, _Lin et al._, arXiv 2023, \[[Paper](https://arxiv.org/pdf/2310.01352.pdf)\]
+13. **Improving Language Models by Retrieving from Trillions of Tokens**, _Borgeaud et al._, ICML 2022. \[[Paper](https://proceedings.mlr.press/v162/borgeaud22a/borgeaud22a.pdf)\]
+14. **In-Context Retrieval-Augmented Language Models**, _Ram et al._, arXiv 2023. \[[Paper](https://arxiv.org/pdf/2302.00083.pdf)\]
+15. **Interleaving Retrieval with Chain-of-thought Reasoning for Knowledge-intensive Multi-step Questions**, _Trivedi et al._, ACL 2023, \[[Paper](https://aclanthology.org/2023.acl-long.557.pdf)\]
+16. **Improving Language Models via Plug-and-Play Retrieval Feedback**, _Yu et al._, arXiv 2023, \[[Paper](https://arxiv.org/pdf/2305.14002.pdf)\]
+17. **Enhancing Retrieval-Augmented Large Language Models with Iterative Retrieval-Generation Synergy**, _Shao et al._, EMNLP 2023. \[[Paper](https://aclanthology.org/2023.findings-emnlp.620.pdf)\]
+18. **Retrieval-Generation Synergy Augmented Large Language Models**, _Feng et al._, arXiv 2023. \[[Paper](https://arxiv.org/pdf/2310.05149.pdf)\]
+19. **Self-RAG: Learning to Retrieve, Generate, and Critique through Self-Reflection**, _Asai et al._, arXiv 2023. \[[Paper](https://arxiv.org/pdf/2310.11511.pdf)\]
+20. **Active Retrieval Augmented Generation**, _Jiang et al._, EMNLP 2023. \[[Paper](https://aclanthology.org/2023.emnlp-main.495.pdf)\]
 #### Active Reader
 1. **Measuring and Narrowing the Compositionality Gap in Language Models**, _Press et al._, arXiv 2022, \[[Paper](https://arxiv.org/pdf/2210.03350.pdf)\]
 2. **DEMONSTRATE–SEARCH–PREDICT: Composing Retrieval and Language Models for Knowledge-intensive NLP**, _Khattab et al._, arXiv 2022, \[[Paper](https://arxiv.org/pdf/2212.14024.pdf)\]
@@ -173,6 +175,18 @@ Please kindly cite our paper if helps your research:
 3. **Exploring the Integration Strategies of Retriever and Large Language Models**, _Liu et al._, arXiv 2023, \[[Paper](https://arxiv.org/pdf/2308.12574.pdf)\]
 4. **Characterizing Attribution and Fluency Tradeoffs for Retrieval-Augmented Large Language Models**, _Aksitov et al._, arXiv 2023, \[[Paper](https://arxiv.org/pdf/2302.05578.pdf)\]
 5. **When Not to Trust Language Models: Investigating Effectiveness of Parametric and Non-Parametric Memories**, _Mallen et al._, ACL 2023, \[[Paper](https://aclanthology.org/2023.acl-long.546.pdf)\]
+#### Applications
+1. **Augmenting Black-box LLMs with Medical Textbooks for Clinical Question Answering**, _Wang et al._, arXiv 2023, \[[Paper](https://arxiv.org/pdf/2309.02233.pdf)\]
+2. **ATLANTIC: Structure-Aware Retrieval-Augmented Language Model for Interdisciplinary Science**, _Munikoti et al._, arXiv 2023, \[[Paper](https://arxiv.org/pdf/2311.12289.pdf)\]
+3. **Crosslingual Retrieval Augmented In-context Learning for Bangla**, _Li et al._, arXiv 2023, \[[Paper](https://arxiv.org/pdf/2311.00587.pdf)\]
+4. **Clinfo.ai: An Open-Source Retrieval-Augmented Large Language Model System for Answering Medical Questions using Scientific Literature**, _Lozano et al._, arXiv 2023, \[[Paper](https://arxiv.org/pdf/2310.16146.pdf)\]
+5. **Enhancing Financial Sentiment Analysis via Retrieval Augmented Large Language Models**, _Zhang et al._, ICAIF 2023, \[[Paper](https://dl.acm.org/doi/pdf/10.1145/3604237.3626866)\]
+6. **Interpretable Long-Form Legal Question Answering with Retrieval-Augmented Large Language Models**, _Louis et al._, arXiv 2023, \[[Paper](https://arxiv.org/pdf/2309.17050.pdf)\]
+7. **RETA-LLM: A Retrieval-Augmented Large Language Model Toolkit**, _Liu et al._, arXiv 2023. \[[Paper](https://arxiv.org/pdf/2306.05212.pdf)\]
+8. **Chameleon: a Heterogeneous and Disaggregated Accelerator System for Retrieval-Augmented Language Models**, _Jiang et al._, arXiv 2023, \[[Paper](https://arxiv.org/pdf/2310.09949.pdf)\]
+9. **RaLLe: A Framework for Developing and Evaluating Retrieval-Augmented Large Language Models**, _Hoshi et al._, EMNLP 2023, \[[Paper](https://aclanthology.org/2023.emnlp-demo.4.pdf)\]
+10. **Don't forget private retrieval: distributed private similarity search for large language models**, _Zyskind et al._, arXiv 2023, \[[Paper](https://arxiv.org/pdf/2311.12955.pdf)\]
+   
 
 
 
