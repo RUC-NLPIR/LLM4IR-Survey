@@ -24,7 +24,7 @@ Please kindly cite our paper if helps your research:
     eprint={2306.07401}
 }
 ```
-## Update Log
+## 🚀 Update Log
 - Version 2 \[2024-01-19\]
   - We added a new section to introduce search agents, which represent an innovative approach to integrating LLMs with IR systems.
   - Rewriter: 
@@ -32,7 +32,7 @@ Please kindly cite our paper if helps your research:
   - Reranker: 
   - Reader: We added the latest studies in LLM-enhanced reader area, including a section introducing the reference compression technique, a section discussing the applications of LLM-enhanced readers, and a section analyzing the characteristics of LLM-enhanced readers.
 
-## Table of Content
+## 📋 Table of Content
 - [Query Rewriter](https://github.com/RUC-NLPIR/LLM4IR-Survey/tree/main#query-rewriter)
   - [Prompting Methods](https://github.com/RUC-NLPIR/LLM4IR-Survey/tree/main#prompting-methods)
   - [Fine-tuning Methods](https://github.com/RUC-NLPIR/LLM4IR-Survey/tree/main#fine-tuning-methods)
@@ -52,7 +52,7 @@ Please kindly cite our paper if helps your research:
   - [Dynamic Agent](https://github.com/RUC-NLPIR/LLM4IR-Survey/tree/main#dynamic-agent)
 - [Other Resources](https://github.com/RUC-NLPIR/LLM4IR-Survey/tree/main#other-resources)
 
-## Paper List
+## 📄 Paper List
 
 ### Query Rewriter
 #### Prompting Methods
