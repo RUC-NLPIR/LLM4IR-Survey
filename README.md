@@ -125,7 +125,7 @@ Please kindly cite our paper if helps your research:
 4. **Open-source Large Language Models are Strong Zero-shot Query Likelihood Models for Document Ranking**, *Zhuang et al.*, EMNLP 2023 (Findings). \[[Paper](https://aclanthology.org/2023.findings-emnlp.590.pdf)\]
 5. **PaRaDe: Passage Ranking using Demonstrations with Large Language Models**, *Drozdov et al.*, EMNLP 2023 (Findings). \[[Paper](https://aclanthology.org/2023.findings-emnlp.950.pdf)\]
 6. **Beyond Yes and No: Improving Zero-Shot LLM Rankers via Scoring Fine-Grained Relevance Labels**, *Zhuang et al.*, arXiv 2023. \[[Paper](https://arxiv.org/pdf/2310.14122.pdf)\]
-7. **Is ChatGPT Good at Search? Investigating Large Language Models as Re-Ranking Agent**, _Sun et al._, arXiv 2023. \[[Paper](https://arxiv.org/pdf/2304.09542.pdf)\] 
+7. **Is ChatGPT Good at Search? Investigating Large Language Models as Re-Ranking Agent**, _Sun et al._, EMNLP 2023. \[[Paper](https://aclanthology.org/2023.emnlp-main.923.pdf)\] 
 8. **Zero-Shot Listwise Document Reranking with a Large Language Model**, _Ma et al._, arXiv 2023. \[[Paper](https://arxiv.org/pdf/2305.02156.pdf)\] 
 9. **Found in the Middle: Permutation Self-Consistency Improves Listwise Ranking in Large Language Models**, *Tang et al.*, arXiv 2023. \[[Paper](https://arxiv.org/pdf/2310.07712.pdf)\]
 10. **Large Language Models are Effective Text Rankers with Pairwise Ranking Prompting**, _Qin et al._, arXiv 2023. \[[Paper](https://arxiv.org/pdf/2306.17563.pdf)\] 
