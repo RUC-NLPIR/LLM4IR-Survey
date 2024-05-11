@@ -130,6 +130,7 @@ Please kindly cite our paper if helps your research:
 9. **Found in the Middle: Permutation Self-Consistency Improves Listwise Ranking in Large Language Models**, *Tang et al.*, arXiv 2023. \[[Paper](https://arxiv.org/pdf/2310.07712.pdf)\]
 10. **Large Language Models are Effective Text Rankers with Pairwise Ranking Prompting**, _Qin et al._, arXiv 2023. \[[Paper](https://arxiv.org/pdf/2306.17563.pdf)\] 
 11. **A Setwise Approach for Effective and Highly Efficient Zero-shot Ranking with Large Language Models**, *Zhuang et al.*, arXiv 2023. \[[Paper](https://arxiv.org/pdf/2310.09497.pdf)\]
+12. **InstUPR: Instruction-based Unsupervised Passage Reranking with Large Language Models**, *Huang and Chen*, arXiv 2024. \[[Paper](https://arxiv.org/pdf/2403.16435.pdf)\]
 
 #### Utilizing LLMs for Training Data Augmentation
 1. **ExaRanker: Explanation-Augmented Neural Ranker**, _Ferraretto et al._, SIGIR 2023 (Short Paper). \[[Paper](https://dl.acm.org/doi/pdf/10.1145/3539618.3592067)\]
