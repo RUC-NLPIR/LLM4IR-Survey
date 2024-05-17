@@ -62,15 +62,16 @@ Please kindly cite our paper if helps your research:
 ### Query Rewriter
 #### Prompting Methods
 1. **Query2doc: Query Expansion with Large Language Models**, _Wang et al._, arXiv 2023. \[[Paper](https://arxiv.org/pdf/2303.07678.pdf)\]
-2. **Generative and Pseudo-Relevant Feedback for Sparse, Dense and Learned Sparse Retrieval**, _Mackie et al._, arXiv 2023.  \[[Paper](https://arxiv.org/pdf/2305.07477.pdf)]
+2. **Generative and Pseudo-Relevant Feedback for Sparse, Dense and Learned Sparse Retrieval**, _Mackie et al._, arXiv 2023.  \[[Paper](https://arxiv.org/pdf/2305.07477.pdf)\]
 3. **Generative Relevance Feedback with Large Language Models**, _Mackie et al._, SIGIR 2023 (short paper). \[[Paper](https://arxiv.org/pdf/2304.13157.pdf)\]
-4. **GRM: Generative Relevance Modeling Using Relevance-Aware Sample Estimation for Document Retrieval**, _Mackie et al._, arXiv 2023.  \[[Paper](https://arxiv.org/pdf/2306.09938.pdf)]
-5. **Large Language Models Know Your Contextual Search Intent: A Prompting Framework for Conversational Search**, _Mao et al._, arXiv 2023.  \[[Paper](https://arxiv.org/pdf/2303.06573.pdf)]
-6. **Precise Zero-Shot Dense Retrieval without Relevance Labels**, _Gao et al._, ACL 2023.  \[[Paper](https://aclanthology.org/2023.acl-long.99.pdf)]
-7. **Query Expansion by Prompting Large Language Models**, _Jagerman et al._, arXiv 2023.  \[[Paper](https://arxiv.org/pdf/2305.03653.pdf)]
-8. **Large Language Models are Strong Zero-Shot Retriever**, _Shen et al._, arXiv 2023.  \[[Paper](https://arxiv.org/pdf/2304.14233.pdf)]
-9. **Enhancing Conversational Search: Large Language Model-Aided Informative Query Rewriting**, _Ye et al._, EMNLP 2023 (Findings).  \[[Paper](https://aclanthology.org/2023.findings-emnlp.398.pdf)]
-10. **Can generative llms create query variants for test collections? an exploratory study**, _M. Alaofi et al._, SIGIR 2023 (short paper). \[[Paper](https://marksanderson.org/publications/my_papers/SIGIR_23_GPT.pdf)]
+4. **GRM: Generative Relevance Modeling Using Relevance-Aware Sample Estimation for Document Retrieval**, _Mackie et al._, arXiv 2023.  \[[Paper](https://arxiv.org/pdf/2306.09938.pdf)\]
+5. **Large Language Models Know Your Contextual Search Intent: A Prompting Framework for Conversational Search**, _Mao et al._, arXiv 2023.  \[[Paper](https://arxiv.org/pdf/2303.06573.pdf)\]
+6. **Precise Zero-Shot Dense Retrieval without Relevance Labels**, _Gao et al._, ACL 2023.  \[[Paper](https://aclanthology.org/2023.acl-long.99.pdf)\]
+7. **Query Expansion by Prompting Large Language Models**, _Jagerman et al._, arXiv 2023.  \[[Paper](https://arxiv.org/pdf/2305.03653.pdf)\]
+8. **Large Language Models are Strong Zero-Shot Retriever**, _Shen et al._, arXiv 2023.  \[[Paper](https://arxiv.org/pdf/2304.14233.pdf)\]
+9. **Enhancing Conversational Search: Large Language Model-Aided Informative Query Rewriting**, _Ye et al._, EMNLP 2023 (Findings).  \[[Paper](https://aclanthology.org/2023.findings-emnlp.398.pdf)\]
+10. **Can generative llms create query variants for test collections? an exploratory study**, _M. Alaofi et al._, SIGIR 2023 (short paper). \[[Paper](https://marksanderson.org/publications/my_papers/SIGIR_23_GPT.pdf)\]
+11. **Corpus-Steered Query Expansion with Large Language Models**, _Lei et al._, EACL 2024 (Short Paper).  \[[Paper](https://aclanthology.org/2024.eacl-short.34.pdf)\]
 
 
 #### Fine-tuning Methods
@@ -79,8 +80,8 @@ Please kindly cite our paper if helps your research:
 
 #### Knowledge Distillation Methods
 1. **QUILL: Query Intent with Large Language Models using Retrieval Augmentation and Multi-stage Distillation**, _Srinivasan et al._, EMNLP 2022 (Industry). \[[Paper](https://aclanthology.org/2022.emnlp-industry.50.pdf)\]
-2. **Knowledge Refinement via Interaction Between Search Engines and Large Language Models**, _Feng et al._, arXiv 2023.  \[[Paper](https://arxiv.org/pdf/2305.07402.pdf)]
-3. **Query Rewriting for Retrieval-Augmented Large Language Models**, _Ma et al._, arXiv 2023.  \[[Paper](https://arxiv.org/pdf/2305.14283.pdf)]
+2. **Knowledge Refinement via Interaction Between Search Engines and Large Language Models**, _Feng et al._, arXiv 2023.  \[[Paper](https://arxiv.org/pdf/2305.07402.pdf)\]
+3. **Query Rewriting for Retrieval-Augmented Large Language Models**, _Ma et al._, arXiv 2023.  \[[Paper](https://arxiv.org/pdf/2305.14283.pdf)\]
 
    
 
