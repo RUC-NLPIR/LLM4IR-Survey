@@ -71,7 +71,7 @@ Please kindly cite our paper if helps your research:
 8. **Large Language Models are Strong Zero-Shot Retriever**, _Shen et al._, arXiv 2023.  \[[Paper](https://arxiv.org/pdf/2304.14233.pdf)]
 9. **Enhancing Conversational Search: Large Language Model-Aided Informative Query Rewriting**, _Ye et al._, EMNLP 2023 (Findings).  \[[Paper](https://aclanthology.org/2023.findings-emnlp.398.pdf)]
 10. **Can generative llms create query variants for test collections? an exploratory study**, _M. Alaofi et al._, SIGIR 2023 (short paper). \[[Paper](https://marksanderson.org/publications/my_papers/SIGIR_23_GPT.pdf)]
-11. **Corpus-Steered Query Expansion with Large Language Models**, _lei et al._, EACL 2024 (Short Paper).  \[[Paper](https://aclanthology.org/2024.eacl-short.34.pdf)]
+11. **Corpus-Steered Query Expansion with Large Language Models**, _Lei et al._, EACL 2024 (Short Paper).  \[[Paper](https://aclanthology.org/2024.eacl-short.34.pdf)]
 
 #### Fine-tuning Methods
 1. **QUILL: Query Intent with Large Language Models using Retrieval Augmentation and Multi-stage Distillation**, _Srinivasan et al._, EMNLP 2022 (Industry). \[[Paper](https://aclanthology.org/2022.emnlp-industry.50.pdf)\] (This paper explore fine-tuning methods in baseline experiments.)
