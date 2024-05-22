@@ -72,6 +72,7 @@ Please kindly cite our paper if helps your research:
 9. **Enhancing Conversational Search: Large Language Model-Aided Informative Query Rewriting**, _Ye et al._, EMNLP 2023 (Findings).  \[[Paper](https://aclanthology.org/2023.findings-emnlp.398.pdf)\]
 10. **Can generative llms create query variants for test collections? an exploratory study**, _M. Alaofi et al._, SIGIR 2023 (short paper). \[[Paper](https://marksanderson.org/publications/my_papers/SIGIR_23_GPT.pdf)\]
 11. **Corpus-Steered Query Expansion with Large Language Models**, _Lei et al._, EACL 2024 (Short Paper).  \[[Paper](https://aclanthology.org/2024.eacl-short.34.pdf)\]
+12. **PromptReps: Prompting Large Language Models to Generate Dense and Sparse Representations for Zero-Shot Document Retrieval**, _Zhuang et al._, arXiv 2024.  \[[Paper](https://arxiv.org/pdf/2404.18424)\]
 
 
 #### Fine-tuning Methods
@@ -130,7 +131,7 @@ Please kindly cite our paper if helps your research:
 8. **Zero-Shot Listwise Document Reranking with a Large Language Model**, _Ma et al._, arXiv 2023. \[[Paper](https://arxiv.org/pdf/2305.02156.pdf)\] 
 9. **Found in the Middle: Permutation Self-Consistency Improves Listwise Ranking in Large Language Models**, *Tang et al.*, arXiv 2023. \[[Paper](https://arxiv.org/pdf/2310.07712.pdf)\]
 10. **Large Language Models are Effective Text Rankers with Pairwise Ranking Prompting**, _Qin et al._, arXiv 2023. \[[Paper](https://arxiv.org/pdf/2306.17563.pdf)\] 
-11. **A Setwise Approach for Effective and Highly Efficient Zero-shot Ranking with Large Language Models**, *Zhuang et al.*, arXiv 2023. \[[Paper](https://arxiv.org/pdf/2310.09497.pdf)\]
+11. **A Setwise Approach for Effective and Highly Efficient Zero-shot Ranking with Large Language Models**, *Zhuang et al.*, SIGIR 2024. \[[Paper](https://arxiv.org/pdf/2310.09497.pdf)\]
 12. **InstUPR: Instruction-based Unsupervised Passage Reranking with Large Language Models**, *Huang and Chen*, arXiv 2024. \[[Paper](https://arxiv.org/pdf/2403.16435.pdf)\]
 
 #### Utilizing LLMs for Training Data Augmentation
