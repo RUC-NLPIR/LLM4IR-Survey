@@ -22,7 +22,7 @@ Please kindly cite our paper if helps your research:
     year={2023},
     url={https://arxiv.org/abs/2308.07107},
     eprinttype={arXiv},
-    eprint={2306.07401}
+    eprint={2308.07107}
 }
 ```
 ## 🚀 Update Log
