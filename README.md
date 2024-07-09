@@ -126,7 +126,7 @@ Please kindly cite our paper if helps your research:
 7. **Is ChatGPT Good at Search? Investigating Large Language Models as Re-Ranking Agent**, _Sun et al._, EMNLP 2023. \[[Paper](https://aclanthology.org/2023.emnlp-main.923.pdf)\] 
 8. **Zero-Shot Listwise Document Reranking with a Large Language Model**, _Ma et al._, arXiv 2023. \[[Paper](https://arxiv.org/pdf/2305.02156.pdf)\] 
 9. **Found in the Middle: Permutation Self-Consistency Improves Listwise Ranking in Large Language Models**, *Tang et al.*, arXiv 2023. \[[Paper](https://arxiv.org/pdf/2310.07712.pdf)\]
-10. **Large Language Models are Effective Text Rankers with Pairwise Ranking Prompting**, _Qin et al._, arXiv 2023. \[[Paper](https://arxiv.org/pdf/2306.17563.pdf)\] 
+10. **Large Language Models are Effective Text Rankers with Pairwise Ranking Prompting**, _Qin et al._, NAACL 2024 (Findings). \[[Paper](https://aclanthology.org/2024.findings-naacl.97.pdf)\] 
 11. **A Setwise Approach for Effective and Highly Efficient Zero-shot Ranking with Large Language Models**, *Zhuang et al.*, SIGIR 2024. \[[Paper](https://arxiv.org/pdf/2310.09497.pdf)\]
 12. **InstUPR: Instruction-based Unsupervised Passage Reranking with Large Language Models**, *Huang and Chen*, arXiv 2024. \[[Paper](https://arxiv.org/pdf/2403.16435.pdf)\]
 
