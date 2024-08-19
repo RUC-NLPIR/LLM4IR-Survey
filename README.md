@@ -113,7 +113,7 @@ Please kindly cite our paper if helps your research:
 4. **The Expando-Mono-Duo Design Pattern for Text Ranking with Pretrained Sequence-to-Sequence Models**, _Pradeep et al._, arXiv 2021. \[[Paper](https://arxiv.org/pdf/2101.05667.pdf)\] 
 5. **RankT5: Fine-Tuning T5 for Text Ranking with Ranking Losses**, _Zhuang et al._, SIGIR 2023 (Short Paper). \[[Paper](https://dl.acm.org/doi/pdf/10.1145/3539618.3592047)\] 
 6. **Fine-Tuning LLaMA for Multi-Stage Text Retrieval**, *Ma et al.*, arXiv 2023. \[[Paper](https://arxiv.org/pdf/2310.08319v1.pdf)\]
-7. **RankingGPT: Empowering Large Language Models in Text Ranking with Progressive Enhancement**, *Zhang et al.*, arXiv 2023. \[[Paper](https://arxiv.org/pdf/2311.16720.pdf)\]
+7. **A Two-Stage Adaptation of Large Language Models for Text Ranking**, *Zhang et al.*, ACL 2024 (Findings). \[[Paper](https://aclanthology.org/2024.findings-acl.706.pdf)\]
 8. **Rank-without-GPT: Building GPT-Independent Listwise Rerankers on Open-Source Large Language Models**, *Zhang et al.*, arXiv 2023. \[[Paper](https://arxiv.org/pdf/2312.02969.pdf)\]
 
 #### Utilizing LLMs as Unsupervised Rerankers
