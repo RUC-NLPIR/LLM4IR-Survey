@@ -170,6 +170,8 @@ Please kindly cite our paper if helps your research:
 1. **Measuring and Narrowing the Compositionality Gap in Language Models**, _Press et al._, arXiv 2022. \[[Paper](https://arxiv.org/pdf/2210.03350.pdf)\]
 2. **DEMONSTRATE–SEARCH–PREDICT: Composing Retrieval and Language Models for Knowledge-intensive NLP**, _Khattab et al._, arXiv 2022. \[[Paper](https://arxiv.org/pdf/2212.14024.pdf)\]
 3. **Answering Questions by Meta-Reasoning over Multiple Chains of Thought**, _Yoran et al._, arXiv 2023. \[[Paper](https://arxiv.org/pdf/2304.13007.pdf)\]
+4. **PlanRAG: A Plan-then-Retrieval Augmented Generation for Generative Large Language Models as Decision Makers**, _Lee ei al._, arXiv 2024. \[[Paper](https://arxiv.org/pdf/2406.12430.pdf)]
+5. **Learning to Plan for Retrieval-Augmented Large Language Models from Knowledge Graphs**, _Wang et al._, arXiv 2024. \[[Paper](https://arxiv.org/pdf/2406.14282.pdf)]
 #### Compressor
 1. **LeanContext: Cost-Efficient Domain-Specific Question Answering Using LLMs**, _Arefeen et al._, arXiv 2023. \[[Paper](https://arxiv.org/pdf/2309.00841.pdf)\]
 2. **RECOMP: Improving Retrieval-Augmented LMs with Compression and Selective Augmentation**, _Xu et al._, arXiv 2023. \[[Paper](https://arxiv.org/pdf/2310.04408.pdf)\]
