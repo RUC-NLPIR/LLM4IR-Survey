@@ -223,6 +223,8 @@ Please kindly cite our paper if helps your research:
 4. **WebGLM: Towards An Efficient Web-Enhanced Question Answering System with Human Preferences**, _Liu et al._, KDD 2023. \[[Paper](https://dl.acm.org/doi/pdf/10.1145/3580305.3599931)\]
 5. **A Real-World WebAgent with Planning, Long Context Understanding, and Program Synthesis**, _Gur et al._, arXiv 2023. \[[Paper](https://arxiv.org/pdf/2307.12856.pdf)\]
 6. **Know Where to Go: Make LLM a Relevant, Responsible, and Trustworthy Searcher**, _Shi et al._, arXiv 2023. \[[Paper](https://arxiv.org/pdf/2310.12443.pdf)\]
+7. **CoSearchAgent: A Lightweight Collaborative Search Agent with Large Language Models**, _Gong et al._, SIGIR 2024. \[[Paper](https://arxiv.org/pdf/2402.06360.pdf)\]
+8. **TRAD: Enhancing LLM Agents with Step-Wise Thought Retrieval and Aligned Decision**, _Zhou et al._, SIGIR 2024. \[[Paper](https://arxiv.org/pdf/2403.06221.pdf)\]
 #### Dynamic Agent
 1. **WebGPT: Browser-assisted question-answering with human feedback**, _Nakano et al._, arXiv 2021. \[[Paper](https://arxiv.org/pdf/2112.09332.pdf)\]
 2. **WebShop: Towards Scalable Real-World Web Interaction with Grounded Language Agents**, _Yao et al._, arXiv 2022. \[[Paper](https://arxiv.org/pdf/2207.01206.pdf)\]
@@ -230,6 +232,13 @@ Please kindly cite our paper if helps your research:
 4. **Mind2Web: Towards a Generalist Agent for the Web**, _Deng et al._, arXiv 2023. \[[Paper](https://arxiv.org/pdf/2306.06070.pdf)\]
 5. **WebArena: A Realistic Web Environment for Building Autonomous Agents**, _Zhou et al._, arXiv 2023. \[[Paper](https://arxiv.org/pdf/2307.13854.pdf)\]
 6. **Hierarchical Prompting Assists Large Language Model on Web Navigation**, _Sridhar et al._, EMNLP 2023 (Findings). \[[Paper](https://aclanthology.org/2023.findings-emnlp.685.pdf)\]
+7. **KwaiAgents: Generalized Information-seeking Agent System with Large Language Models**, _Pan et al._, arXiv 2023. \[[Paper](https://arxiv.org/pdf/2312.04889.pdf)\]
+8. **WebVoyager : Building an End-to-End Web Agent with Large Multimodal Models**, _He et al._, arXiv 2024. \[[Paper](https://arxiv.org/pdf/2401.13919.pdf)\]
+9. **AutoWebGLM: Bootstrap And Reinforce A Large Language Model-based Web Navigating Agent**, _Lai et al._, KDD 2024. \[[Paper](https://arxiv.org/pdf/2404.03648.pdf)\]
+10. **WebCanvas: Benchmarking Web Agents in Online Environments**, _Pan et al._, arXiv 2024. \[[Paper](https://arxiv.org/pdf/2406.12373.pdf)\]
+11. **Internet of Agents: Weaving a Web of Heterogeneous Agents for Collaborative Intelligence**, _Chen et al._, arXiv 2024. \[[Paper](https://arxiv.org/pdf/2407.07061.pdf)\]
+12. **Agent-E: From Autonomous Web Navigation to Foundational Design Principles in Agentic Systems**, _Abuelsaad et al._, arXiv 2024. \[[Paper](https://arxiv.org/pdf/2407.13032.pdf)\]
+13. **MindSearch: Mimicking Human Minds Elicits Deep AI Searcher**, _Chen et al._, arXiv 2024. \[[Paper](https://arxiv.org/pdf/2407.20183.pdf)\]
 
 ### Other Resources
 1. **ACL 2023 Tutorial: Retrieval-based Language Models and Applications**, _Asai et al._, ACL 2023. \[[Link](https://acl2023-retrieval-lm.github.io/)\]
