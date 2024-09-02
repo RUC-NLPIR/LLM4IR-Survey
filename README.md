@@ -101,7 +101,9 @@ Please kindly cite our paper if helps your research:
 9. **Leveraging LLMs for Synthesizing Training Data Across Many Languages in Multilingual Dense Retrieval**, _Thakur et al._, arXiv 2023. \[[Paper](https://doi.org/10.48550/arXiv.2311.05800)\]
 10. **Questions Are All You Need to Train a Dense Passage Retriever**, _Sachan et al._, ACL 2023. \[[Paper](https://aclanthology.org/2023.tacl-1.35.pdf)\]
 11. **Beyond Factuality: A Comprehensive Evaluation of Large Language Models as Knowledge Generators**, _Chen et al._, EMNLP 2023. \[[Paper](https://arxiv.org/abs/2310.07289)\]
-
+12. **Gecko: Versatile Text Embeddings Distilled from Large Language Models**, _Lee et al._, arXiv 2024. \[[Paper](https://arxiv.org/abs/2403.20327)\]
+13. **Improving Text Embeddings with Large Language Models**, _Wang et al._, ACL 2024. \[[Paper](https://aclanthology.org/2024.acl-long.642/)\]
+    
 #### Employing LLMs to Enhance Model Architecture
 1. **Text and Code Embeddings by Contrastive Pre-Training**, _Neelakantan et al._, arXiv 2022. \[[Paper](https://cdn.openai.com/papers/Text_and_Code_Embeddings_by_Contrastive_Pre_Training.pdf)\]
 2. **Fine-Tuning LLaMA for Multi-Stage Text Retrieval**, _Ma et al._, arXiv 2023. \[[Paper](https://doi.org/10.48550/arXiv.2310.08319)\]
@@ -109,7 +111,10 @@ Please kindly cite our paper if helps your research:
 4. **Task-aware Retrieval with Instructions**, _Asai et al._, ACL 2023 (Findings). \[[Paper](https://aclanthology.org/2023.findings-acl.225.pdf)\]
 5. **Transformer memory as a differentiable search index**, _Tay et al._, NeurIPS 2022. \[[Paper](https://proceedings.neurips.cc/paper_files/paper/2022/file/892840a6123b5ec99ebaab8be1530fba-Paper-Conference.pdf)\]
 6. **Large Language Models are Built-in Autoregressive Search Engines**, _Ziems et al._, ACL 2023 (Findings). \[[Paper](https://aclanthology.org/2023.findings-acl.167.pdf)\]
-
+7. **Chatretriever: Adapting large language models for generalized and robust conversational dense retrieval**, _Mao et al._, arXiv. \[[Paper](https://arxiv.org/pdf/2404.13556)\]
+8. **How does generative retrieval scale to millions of passages?**, _Pradeep et al._, ACL 2023. \[[Paper](https://aclanthology.org/2023.emnlp-main.83.pdf)\]
+9. **CorpusLM: Towards a Unified Language Model on Corpus for Knowledge-Intensive Tasks**, _Li et al._, SIGIR. \[[Paper](https://dl.acm.org/doi/10.1145/3626772.3657778)
+   
 ### Reranker
 
 #### Utilizing LLMs as Supervised Rerankers
