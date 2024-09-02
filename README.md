@@ -113,7 +113,7 @@ Please kindly cite our paper if helps your research:
 6. **Large Language Models are Built-in Autoregressive Search Engines**, _Ziems et al._, ACL 2023 (Findings). \[[Paper](https://aclanthology.org/2023.findings-acl.167.pdf)\]
 7. **Chatretriever: Adapting large language models for generalized and robust conversational dense retrieval**, _Mao et al._, arXiv. \[[Paper](https://arxiv.org/pdf/2404.13556)\]
 8. **How does generative retrieval scale to millions of passages?**, _Pradeep et al._, ACL 2023. \[[Paper](https://aclanthology.org/2023.emnlp-main.83.pdf)\]
-9. **CorpusLM: Towards a Unified Language Model on Corpus for Knowledge-Intensive Tasks**, _Li et al._, SIGIR. \[[Paper](https://dl.acm.org/doi/10.1145/3626772.3657778)
+9. **CorpusLM: Towards a Unified Language Model on Corpus for Knowledge-Intensive Tasks**, _Li et al._, SIGIR. \[[Paper](https://dl.acm.org/doi/10.1145/3626772.3657778)]
    
 ### Reranker
 
