@@ -26,6 +26,9 @@ Please kindly cite our paper if helps your research:
 }
 ```
 ## 🚀 Update Log
+- Version 3 \[2024-09-03\]
+  - Search Agent: We added the latest studies on static and dynamic search agents, particularly enriching the works in benchmarking and self-planning.
+
 - Version 2 \[2024-01-19\]
   - We added a new section to introduce search agents, which represent an innovative approach to integrating LLMs with IR systems.
   - Rewriter:  We added recent works on LLM-based query rewriting, most of which focus on conversational search.
