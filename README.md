@@ -28,6 +28,7 @@ Please kindly cite our paper if helps your research:
 ## 🚀 Update Log
 - Version 3 \[2024-09-03\]
   - Re-ranker: We have added some unsupervised rerankers, several studies focusing on training data augmentation, and discussions on the limitations of LLM rerankers.
+  - Reader: We added the latest studies on readers, particularly enriching the works in the active reader section.
   - Search Agent: We added the latest studies on static and dynamic search agents, particularly enriching the works in benchmarking and self-planning.
 
 - Version 2 \[2024-01-19\]
