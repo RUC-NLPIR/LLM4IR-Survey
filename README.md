@@ -27,8 +27,10 @@ Please kindly cite our paper if helps your research:
 ```
 ## 🚀 Update Log
 - Version 3 \[2024-09-03\]
+  - We refine the background to pay more attention to IR.
+  - Rewriter:
   - Retriever: We incorporated up-to-date methods that utilize LLM to enlarge the dataset used for training retrievers or to improve the overall structure and design of retriever systems.
-  - Re-ranker: We have added some unsupervised rerankers, several studies focusing on training data augmentation, and discussions on the limitations of LLM rerankers.
+  - Reranker: We have added some unsupervised rerankers, several studies focusing on training data augmentation, and discussions on the limitations of LLM rerankers.
   - Reader: We added the latest studies on readers, particularly enriching the works in the active reader section.
   - Search Agent: We added the latest studies on static and dynamic search agents, particularly enriching the works in benchmarking and self-planning.
 
