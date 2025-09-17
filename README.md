@@ -26,6 +26,8 @@ Please kindly cite our paper if helps your research:
 }
 ```
 ## 🚀 Update Log
+- Version 4 \[2025-09-17\]
+  - Search Agent: We reformulate the search agent section.
 - Version 3 \[2024-09-03\]
   - We refine the background to pay more attention to IR.
   - Rewriter: We add a new section "Formats of Rewritten Queries" to provide a more clear classfication and incorporated up-to-date methods.
@@ -61,8 +63,7 @@ Please kindly cite our paper if helps your research:
   - [Analysis](https://github.com/RUC-NLPIR/LLM4IR-Survey/tree/main#analysis)
   - [Applications](https://github.com/RUC-NLPIR/LLM4IR-Survey/tree/main#applications)
 - [Search Agent](https://github.com/RUC-NLPIR/LLM4IR-Survey/tree/main#search-agent)
-  - [Static Agent](https://github.com/RUC-NLPIR/LLM4IR-Survey/tree/main#static-agent)
-  - [Dynamic Agent](https://github.com/RUC-NLPIR/LLM4IR-Survey/tree/main#dynamic-agent)
+  - [Information Seeking Module](https://github.com/RUC-NLPIR/LLM4IR-Survey/tree/main#information-seeking-module)
 - [Other Resources](https://github.com/RUC-NLPIR/LLM4IR-Survey/tree/main#other-resources)
 
 ## 📄 Paper List
@@ -229,30 +230,6 @@ Please kindly cite our paper if helps your research:
 
 
 ### Search Agent
-#### Static Agent
-1. **LaMDA: Language Models for Dialog Applications**, _Thoppilan et al._, arXiv 2022. \[[Paper](https://arxiv.org/pdf/2201.08239.pdf)\]
-2. **Language Models that Seek for Knowledge: Modular Search & Generation for Dialogue and Prompt Completion**, _Shuster et al._, EMNLP 2022 (Findings). \[[Paper](https://aclanthology.org/2022.findings-emnlp.27.pdf)\]
-3. **Teaching language models to support answers with verified quotes**, _Menick et al._, arXiv 2022. \[[Paper](https://arxiv.org/pdf/2203.11147.pdf)\]
-4. **WebGLM: Towards An Efficient Web-Enhanced Question Answering System with Human Preferences**, _Liu et al._, KDD 2023. \[[Paper](https://dl.acm.org/doi/pdf/10.1145/3580305.3599931)\]
-5. **A Real-World WebAgent with Planning, Long Context Understanding, and Program Synthesis**, _Gur et al._, arXiv 2023. \[[Paper](https://arxiv.org/pdf/2307.12856.pdf)\]
-6. **Know Where to Go: Make LLM a Relevant, Responsible, and Trustworthy Searcher**, _Shi et al._, arXiv 2023. \[[Paper](https://arxiv.org/pdf/2310.12443.pdf)\]
-7. **CoSearchAgent: A Lightweight Collaborative Search Agent with Large Language Models**, _Gong et al._, SIGIR 2024. \[[Paper](https://arxiv.org/pdf/2402.06360.pdf)\]
-8. **TRAD: Enhancing LLM Agents with Step-Wise Thought Retrieval and Aligned Decision**, _Zhou et al._, SIGIR 2024. \[[Paper](https://arxiv.org/pdf/2403.06221.pdf)\]
-#### Dynamic Agent
-1. **WebGPT: Browser-assisted question-answering with human feedback**, _Nakano et al._, arXiv 2021. \[[Paper](https://arxiv.org/pdf/2112.09332.pdf)\]
-2. **WebShop: Towards Scalable Real-World Web Interaction with Grounded Language Agents**, _Yao et al._, arXiv 2022. \[[Paper](https://arxiv.org/pdf/2207.01206.pdf)\]
-3. **WebCPM: Interactive Web Search for Chinese Long-form Question Answering**, _Qin et al._, ACL 2023. \[[Paper](https://aclanthology.org/2023.acl-long.499.pdf)\]
-4. **Mind2Web: Towards a Generalist Agent for the Web**, _Deng et al._, arXiv 2023. \[[Paper](https://arxiv.org/pdf/2306.06070.pdf)\]
-5. **WebArena: A Realistic Web Environment for Building Autonomous Agents**, _Zhou et al._, arXiv 2023. \[[Paper](https://arxiv.org/pdf/2307.13854.pdf)\]
-6. **Hierarchical Prompting Assists Large Language Model on Web Navigation**, _Sridhar et al._, EMNLP 2023 (Findings). \[[Paper](https://aclanthology.org/2023.findings-emnlp.685.pdf)\]
-7. **KwaiAgents: Generalized Information-seeking Agent System with Large Language Models**, _Pan et al._, arXiv 2023. \[[Paper](https://arxiv.org/pdf/2312.04889.pdf)\]
-8. **WebVoyager : Building an End-to-End Web Agent with Large Multimodal Models**, _He et al._, arXiv 2024. \[[Paper](https://arxiv.org/pdf/2401.13919.pdf)\]
-9. **AutoWebGLM: Bootstrap And Reinforce A Large Language Model-based Web Navigating Agent**, _Lai et al._, KDD 2024. \[[Paper](https://arxiv.org/pdf/2404.03648.pdf)\]
-10. **WebCanvas: Benchmarking Web Agents in Online Environments**, _Pan et al._, arXiv 2024. \[[Paper](https://arxiv.org/pdf/2406.12373.pdf)\]
-11. **Internet of Agents: Weaving a Web of Heterogeneous Agents for Collaborative Intelligence**, _Chen et al._, arXiv 2024. \[[Paper](https://arxiv.org/pdf/2407.07061.pdf)\]
-12. **Agent-E: From Autonomous Web Navigation to Foundational Design Principles in Agentic Systems**, _Abuelsaad et al._, arXiv 2024. \[[Paper](https://arxiv.org/pdf/2407.13032.pdf)\]
-13. **MindSearch: Mimicking Human Minds Elicits Deep AI Searcher**, _Chen et al._, arXiv 2024. \[[Paper](https://arxiv.org/pdf/2407.20183.pdf)\]
-
 #### Information Seeking Module
 1. **A cognitive writing perspective for constrained long-form text generation**, _Wan et al._, ACL 2025 (Findings). \[[Paper](https://aclanthology.org/2025.findings-acl.511.pdf)\]
 2. **CoSearchAgent: A Lightweight Collaborative Search Agent with Large Language Models**, _Gong et al._, SIGIR 2024. \[[Paper](https://arxiv.org/pdf/2402.06360)\]
