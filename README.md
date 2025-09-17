@@ -253,6 +253,19 @@ Please kindly cite our paper if helps your research:
 12. **Agent-E: From Autonomous Web Navigation to Foundational Design Principles in Agentic Systems**, _Abuelsaad et al._, arXiv 2024. \[[Paper](https://arxiv.org/pdf/2407.13032.pdf)\]
 13. **MindSearch: Mimicking Human Minds Elicits Deep AI Searcher**, _Chen et al._, arXiv 2024. \[[Paper](https://arxiv.org/pdf/2407.20183.pdf)\]
 
+#### Information Seeking Module
+1. **A cognitive writing perspective for constrained long-form text generation**, _Wan et al._, ACL 2025 (Findings). \[[Paper](https://aclanthology.org/2025.findings-acl.511.pdf)\]
+2. **CoSearchAgent: A Lightweight Collaborative Search Agent with Large Language Models**, _Gong et al._, SIGIR 2024. \[[Paper](https://arxiv.org/pdf/2402.06360)\]
+3. **Search-o1: Agentic search-enhanced large reasoning models**, _Li et al._, arXiv 2025. \[[Paper](https://arxiv.org/pdf/2501.05366)\]
+4. **Agent Laboratory: Using LLM Agents as Research Assistants**, _Schmidgall et al._, arXiv 2025. \[[Paper](https://arxiv.org/pdf/2501.04227)\]
+5. **The AI Scientist: Towards Fully Automated Open-Ended Scientific Discovery**, _Lu et al._, arXiv 2024. \[[Paper](https://arxiv.org/pdf/2408.06292)\]
+6. **Auto-RAG: Autonomous Retrieval-Augmented Generation for Large Language Models**, _Yu et al._, arXiv 2024. \[[Paper](https://arxiv.org/pdf/2411.19443)\]
+7. **SimpleDeepSearcher: Deep Information Seeking via Web-Powered Reasoning Trajectory Synthesis**, _Sun et al._, arXiv 2025. \[[Paper](https://arxiv.org/pdf/2505.16834)\]
+8. **Tool-Star: Empowering LLM-Brained Multi-Tool Reasoner via Reinforcement Learning**, _Dong et al._, arXiv 2025. \[[Paper](https://arxiv.org/pdf/2505.04588)\]
+9. **ZeroSearch: Incentivize the Search Capability of LLMs without Searching**, _Sun et al._, arXiv 2025. \[[Paper](https://arxiv.org/pdf/2505.04588)\]
+10. **Alita: Generalist Agent Enabling Scalable Agentic Reasoning with Minimal Predefinition and Maximal Self-Evolution**, _Qiu et al._, arXiv 2025. \[[Paper](https://arxiv.org/pdf/2505.20286)\]
+
+
 ### Other Resources
 1. **ACL 2023 Tutorial: Retrieval-based Language Models and Applications**, _Asai et al._, ACL 2023. \[[Link](https://acl2023-retrieval-lm.github.io/)\]
 2. **A Survey of Large Language Models**, _Zhao et al._, arXiv 2023. \[[Paper](https://arxiv.org/pdf/2303.18223.pdf)\]
