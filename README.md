@@ -261,7 +261,7 @@ Please kindly cite our paper if helps your research:
 5. **The AI Scientist: Towards Fully Automated Open-Ended Scientific Discovery**, _Lu et al._, arXiv 2024. \[[Paper](https://arxiv.org/pdf/2408.06292)\]
 6. **Auto-RAG: Autonomous Retrieval-Augmented Generation for Large Language Models**, _Yu et al._, arXiv 2024. \[[Paper](https://arxiv.org/pdf/2411.19443)\]
 7. **SimpleDeepSearcher: Deep Information Seeking via Web-Powered Reasoning Trajectory Synthesis**, _Sun et al._, arXiv 2025. \[[Paper](https://arxiv.org/pdf/2505.16834)\]
-8. **Tool-Star: Empowering LLM-Brained Multi-Tool Reasoner via Reinforcement Learning**, _Dong et al._, arXiv 2025. \[[Paper](https://arxiv.org/pdf/2505.04588)\]
+8. **Tool-Star: Empowering LLM-Brained Multi-Tool Reasoner via Reinforcement Learning**, _Dong et al._, arXiv 2025. \[[Paper](https://arxiv.org/pdf/2505.16410)\]
 9. **ZeroSearch: Incentivize the Search Capability of LLMs without Searching**, _Sun et al._, arXiv 2025. \[[Paper](https://arxiv.org/pdf/2505.04588)\]
 10. **Alita: Generalist Agent Enabling Scalable Agentic Reasoning with Minimal Predefinition and Maximal Self-Evolution**, _Qiu et al._, arXiv 2025. \[[Paper](https://arxiv.org/pdf/2505.20286)\]
 
