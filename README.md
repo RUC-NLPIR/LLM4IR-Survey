@@ -28,6 +28,7 @@ Please kindly cite our paper if helps your research:
 ## 🚀 Update Log
 - Version 4 \[2025-09-17\]
   - Search Agent: We reformulate the search agent section.
+  - Reranker: We add several listwise rerankers and Section 'Reasoning-intensive Rerankers'.
 - Version 3 \[2024-09-03\]
   - We refine the background to pay more attention to IR.
   - Rewriter: We add a new section "Formats of Rewritten Queries" to provide a more clear classfication and incorporated up-to-date methods.
@@ -56,6 +57,7 @@ Please kindly cite our paper if helps your research:
   - [Utilizing LLMs as Supervised Rerankers](https://github.com/RUC-NLPIR/LLM4IR-Survey/tree/main#utilizing-llms-as-supervised-rerankers)
   - [Utilizing LLMs as Unsupervised Rerankers](https://github.com/RUC-NLPIR/LLM4IR-Survey/tree/main#utilizing-llms-as-unsupervised-rerankers)
   - [Utilizing LLMs for Training Data Augmentation](https://github.com/RUC-NLPIR/LLM4IR-Survey/tree/main#utilizing-llms-for-training-data-augmentation)
+  - [Reasoning-intensive Rerankers](https://github.com/RUC-NLPIR/LLM4IR-Survey/tree/main#reasoning-intensive-rerankers)
 - [Reader](https://github.com/RUC-NLPIR/LLM4IR-Survey/tree/main#reader)
   - [Passive Reader](https://github.com/RUC-NLPIR/LLM4IR-Survey/tree/main#passive-reader)
   - [Active Reader](https://github.com/RUC-NLPIR/LLM4IR-Survey/tree/main#active-reader)
