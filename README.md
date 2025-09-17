@@ -161,6 +161,10 @@ Please kindly cite our paper if helps your research:
 17. **Top-Down Partitioning for Efficient List-Wise Ranking**, *Parry et al.*, arXiv 2024. \[[Paper](https://arxiv.org/pdf/2405.14589)\]
 18. **PRP-Graph: Pairwise Ranking Prompting to LLMs with Graph Aggregation for Effective Text Re-ranking**, *Luo et al.*, ACL 2024. \[[Paper](https://aclanthology.org/2024.acl-long.313.pdf)\]
 19. **Consolidating Ranking and Relevance Predictions of Large Language Models through Post-Processing**, *Yan et al.*, arXiv 2024. \[[Paper](https://arxiv.org/pdf/2404.11791)\]
+20. **Sliding Windows Are Not the End: Exploring Full Ranking with Long-Context Large Language Models**, *Liu et al.*, ACL 2025. \[[Paper](https://aclanthology.org/2025.acl-long.8.pdf)\]
+21. **CoRanking: Collaborative Ranking with Small and Large Ranking Agents**, *Liu et al.*, EMNLP 2025 (Findings). \[[Paper](https://arxiv.org/pdf/2503.23427)\]
+22. **APEER : Automatic Prompt Engineering Enhances Large Language Model Reranking**, *Jin et al.*, WWW 2025. \[[Paper](https://dl.acm.org/doi/pdf/10.1145/3701716.3717574)\]
+23. **Consolidating Ranking and Relevance Predictions of Large Language Models through Post-Processing**, *Yan et al.*, EMNLP 2024. \[[Paper](https://aclanthology.org/2024.emnlp-main.25.pdf)\]
 
 #### Utilizing LLMs for Training Data Augmentation
 
@@ -174,6 +178,14 @@ Please kindly cite our paper if helps your research:
 8. **Expand, Highlight, Generate: RL-driven Document Generation for Passage Reranking**, *Askari et al.*, EMNLP 2023. \[[Paper](https://aclanthology.org/2023.emnlp-main.623.pdf)\]
 9. **FIRST: Faster Improved Listwise Reranking with Single Token Decoding**, *Reddy et al.*, arXiv 2024. \[[Paper](https://arxiv.org/pdf/2406.15657)\]
 
+#### Reasoning-intensive Rerankers
+
+1. **ReasonRank: Empowering Passage Ranking with Strong Reasoning Ability**, _Liu et al._, arXiv 2025. \[[Paper](https://arxiv.org/pdf/2508.07050)\]
+2. **Rank1: Test-Time Compute for Reranking in Information Retrieval**, *Weller et al.*, arXiv 2025. \[[Paper](https://arxiv.org/pdf/2502.18418)\]
+3. **Rank-K: Test-Time Reasoning for Listwise Reranking**, *Yang et al.*, arXiv 2025. \[[Paper](https://arxiv.org/pdf/2505.14432)\]
+4. **REARANK: Reasoning Re-ranking Agent via Reinforcement Learning**, *Zhang et al.*, arXiv 2025. \[[Paper](https://arxiv.org/abs/2505.20046)\]
+5. **Rank-R1: Enhancing Reasoning in LLM-based Document Rerankers via Reinforcement Learning**, *Zhuang et al.*, arXiv 2025. \[[Paper](https://arxiv.org/abs/2503.06034)\]
+6. **TFRank: Think-Free Reasoning Enables Practical Pointwise LLM Ranking**, *Fan et al.*, arXiv 2025. \[[Paper](https://arxiv.org/abs/2508.09539)\]
 
 ### Reader
 #### Passive Reader
