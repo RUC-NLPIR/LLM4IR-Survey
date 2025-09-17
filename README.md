@@ -256,6 +256,32 @@ Please kindly cite our paper if helps your research:
 9. **ZeroSearch: Incentivize the Search Capability of LLMs without Searching**, _Sun et al._, arXiv 2025. \[[Paper](https://arxiv.org/pdf/2505.04588)\]
 10. **Alita: Generalist Agent Enabling Scalable Agentic Reasoning with Minimal Predefinition and Maximal Self-Evolution**, _Qiu et al._, arXiv 2025. \[[Paper](https://arxiv.org/pdf/2505.20286)\]
 
+#### Benchmarks and Resources
+1. **TriviaQA: A Large Scale Distantly Supervised Challenge Dataset for Reading Comprehension**, _Joshi et al._, ACL 2017. \[[Paper](https://aclanthology.org/P17-1147.pdf)\]
+2. **Measuring short-form factuality in large language models**, _Wei et al._, arXiv 2024. \[[Paper](https://arxiv.org/pdf/2411.04368v1)\]
+3. **When Not to Trust Language Models: Investigating Effectiveness of Parametric and Non-Parametric Memories**, _Mallen et al._, ACL 2023. \[[Paper](https://arxiv.org/pdf/2212.10511)\]
+4. **Natural Questions: a Benchmark for Question Answering Research**, _Kwiatkowski et al._, ACL 2019. \[[Paper](https://aclanthology.org/Q19-1026.pdf)\]
+5. **HotpotQA: A Dataset for Diverse, Explainable Multi-hop Question Answering**, _Yang et al._, EMNLP 2018. \[[Paper](https://aclanthology.org/D18-1259.pdf)\]
+6. **Constructing A Multi-hop QA Dataset for Comprehensive Evaluation of Reasoning Steps**, _Ho et al._, COLING 2020. \[[Paper](https://arxiv.org/pdf/2011.01060)\]
+7. **Humanity's Last Exam**, _Phan et al._, arXiv 2025. \[[Paper](https://arxiv.org/pdf/2501.14249)\]
+8. **BrowseComp: A Simple Yet Challenging Benchmark for Browsing Agents**, _Wei et al._, arXiv 2025. \[[Paper](https://arxiv.org/pdf/2504.12516)\]
+9. **GAIA: a benchmark for General AI Assistants**, _Mialon et al._, ICLR 2024. \[[Paper](https://arxiv.org/pdf/2311.12983)\]
+10. **AssistantBench: Can Web Agents Solve Realistic and Time-Consuming Tasks?**, _Yoran et al._, EMNLP 2024. \[[Paper](https://arxiv.org/pdf/2407.15711)\]
+11. **Magentic-One: A Generalist Multi-Agent System for Solving Complex Tasks**, _Fourney et al._, arXiv 2024. \[[Paper](https://arxiv.org/pdf/2411.04468)\]
+12. **SWE-bench: Can Language Models Resolve Real-World GitHub Issues?**, _Jimenez et al._, arXiv 2023. \[[Paper](https://arxiv.org/pdf/2310.06770)\]
+13. **OctoPack: Instruction Tuning Code Large Language Models**, _Muennighoff et al._, ICLR 2024. \[[Paper](https://arxiv.org/pdf/2308.07124)\]
+14. **MLE-bench: Evaluating Machine Learning Agents on Machine Learning Engineering**, _Chan et al._, ICLR 2025. \[[Paper](https://arxiv.org/pdf/2410.07095)\]
+15. **MLAgentBench: Evaluating Language Agents on Machine Learning Experimentation**, _Huang et al._, ICML 2024. \[[Paper](https://arxiv.org/pdf/2310.03302)\]
+16. **RE-Bench: Evaluating frontier AI R&D capabilities of language model agents against human experts**, _Wijk et al._, Arxiv 2024. \[[Paper](https://arxiv.org/pdf/2411.15114)\]
+17. **ResearchTown: Simulator of Human Research Community**, _Yu et al._, Arxiv 2024. \[[Paper](https://arxiv.org/pdf/2412.17767)\]
+18. **WebArena: A Realistic Web Environment for Building Autonomous Agents**, _Zhou et al._, ICLR 2024. \[[Paper](https://arxiv.org/pdf/2307.13854)\]
+19. **Spa-Bench: a comprehensive Benchmark for Smartphone Agent Evaluation**, _Chen et al._, ICLR 2025. \[[Paper](https://arxiv.org/pdf/2410.15164)\]
+20. **WebWalker: Benchmarking LLMs in Web Traversal**, _Wu et al._, ACL 2025. \[[Paper](https://arxiv.org/pdf/2501.07572)\]
+21. **WebDancer: Towards Autonomous Information Seeking Agency**, _Wu et al._, Arxiv 2025. \[[Paper](https://arxiv.org/pdf/2505.22648)\]
+22. **WebShaper: Agentically Data Synthesizing via Information-Seeking Formalization**, _Tao et al._, Arxiv 2025. \[[Paper](https://arxiv.org/pdf/2507.15061)\]
+23. **WebSailor: Navigating Super-human Reasoning for Web Agent**, _Li et al._, Arxiv 2025. \[[Paper](https://arxiv.org/pdf/2507.02592)\]
+
+
 
 ### Other Resources
 1. **ACL 2023 Tutorial: Retrieval-based Language Models and Applications**, _Asai et al._, ACL 2023. \[[Link](https://acl2023-retrieval-lm.github.io/)\]
