@@ -93,6 +93,7 @@ Please kindly cite our paper if helps your research:
 
 #### Fine-tuning Methods
 1. **QUILL: Query Intent with Large Language Models using Retrieval Augmentation and Multi-stage Distillation**, _Srinivasan et al._, EMNLP 2022 (Industry). \[[Paper](https://aclanthology.org/2022.emnlp-industry.50.pdf)\] (This paper explore fine-tuning methods in baseline experiments.)
+2. **ExpandR: Teaching Dense Retrievers Beyond Queries with LLM Guidance**, _Yao et al._, EMNLP 2025. \[[Paper](https://aclanthology.org/2025.emnlp-main.963.pdf)\]
 
 #### Knowledge Distillation Methods
 1. **QUILL: Query Intent with Large Language Models using Retrieval Augmentation and Multi-stage Distillation**, _Srinivasan et al._, EMNLP 2022 (Industry). \[[Paper](https://aclanthology.org/2022.emnlp-industry.50.pdf)\]
@@ -211,6 +212,8 @@ Please kindly cite our paper if helps your research:
 18. **Retrieval-Generation Synergy Augmented Large Language Models**, _Feng et al._, arXiv 2023. \[[Paper](https://arxiv.org/pdf/2310.05149.pdf)\]
 19. **Self-RAG: Learning to Retrieve, Generate, and Critique through Self-Reflection**, _Asai et al._, arXiv 2023. \[[Paper](https://arxiv.org/pdf/2310.11511.pdf)\]
 20. **Active Retrieval Augmented Generation**, _Jiang et al._, EMNLP 2023. \[[Paper](https://aclanthology.org/2023.emnlp-main.495.pdf)\]
+21. **ParamMute: Suppressing Knowledge-Critical FFNs for Faithful Retrieval-Augmented Generation**, _Huang et al._, NeurIPS 2025. \[[Paper](https://arxiv.org/pdf/2502.15543)\]
+22. **SPARK: Adaptive Parametric Knowledge Participation for Faithful Retrieval-Augmented Generation**, _Li et al._, arXiv 2026. \[[Paper](https://arxiv.org/pdf/2606.27786)\]
 #### Active Reader
 1. **Measuring and Narrowing the Compositionality Gap in Language Models**, _Press et al._, arXiv 2022. \[[Paper](https://arxiv.org/pdf/2210.03350.pdf)\]
 2. **DEMONSTRATE–SEARCH–PREDICT: Composing Retrieval and Language Models for Knowledge-intensive NLP**, _Khattab et al._, arXiv 2022. \[[Paper](https://arxiv.org/pdf/2212.14024.pdf)\]
